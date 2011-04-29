@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  
+  	android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal"
+    >
+    
+    <Button 
+		android:id="@+id/button_kanji_tmp_front_door"
+		android:layout_width="200dip"
+    	android:layout_height="wrap_content"
+    	android:text="HERE"
+    	android:gravity="center"
+    	android:padding="20dip"
+    	android:layout_marginBottom="50dip"
+    	android:layout_marginTop="50dip"
+    />
+    
+</LinearLayout>

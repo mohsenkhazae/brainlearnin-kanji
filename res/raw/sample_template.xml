@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KanjiQuizConfig>
+  <TemplateName>Sample Kanji Template</TemplateName>
+  <GlyphStats>
+    <glyphStat>
+      <glyph>一</glyph>
+      <index>0</index>
+      <onReading>イチ</onReading>
+      <onReading>イツ</onReading>
+      <kunReading>ひと-</kunReading>
+      <kunReading>ひと.つ</kunReading>
+      <meaning>one</meaning>
+      <meaning>one radical (no.1)</meaning>
+    </glyphStat>
+    <glyphStat>
+      <glyph>三</glyph>
+      <index>1</index>
+      <onReading>サン</onReading>
+      <onReading>ゾウ</onReading>
+      <kunReading>み</kunReading>
+      <kunReading>み.つ</kunReading>
+      <kunReading>みっ.つ</kunReading>
+      <meaning>three</meaning>
+    </glyphStat>
+    <glyphStat>
+      <glyph>下</glyph>
+      <index>2</index>
+      <onReading>カ</onReading>
+      <onReading>ゲ</onReading>
+      <kunReading>した</kunReading>
+      <kunReading>しも</kunReading>
+      <kunReading>もと</kunReading>
+      <kunReading>さ.げる</kunReading>
+      <kunReading>さ.がる</kunReading>
+      <kunReading>くだ.る</kunReading>
+      <kunReading>くだ.り</kunReading>
+      <kunReading>くだ.す</kunReading>
+      <kunReading>-くだ.す</kunReading>
+      <kunReading>くだ.さる</kunReading>
+      <kunReading>お.ろす</kunReading>
+      <kunReading>お.りる</kunReading>
+      <meaning>below</meaning>
+      <meaning>down</meaning>
+      <meaning>descend</meaning>
+      <meaning>give</meaning>
+      <meaning>low</meaning>
+      <meaning>inferior</meaning>
+    </glyphStat>
+  </GlyphStats>
+</KanjiQuizConfig>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_grading_stats"          
+          android:title="@string/menu_grading_stats"
+          android:icon="@drawable/ic_menu_seal" 
+          />
+          
+	<item android:id="@+id/menu_num_leitners"          
+          android:title="@string/menu_num_leitners"
+          android:icon="@drawable/ic_menu_piechart"
+           />
+          
+	<item android:id="@+id/menu_session_preferences"          
+          android:title="@string/menu_session_preferences"
+          android:icon="@drawable/preferences_icon"          
+           />
+          
+ 	<item android:id="@+id/menu_help"          
+          android:title="@string/menu_help"
+          android:icon="@drawable/ic_menu_globe"
+           />
+          
+    <item android:id="@+id/menu_about"          
+          android:title="@string/menu_about"
+          android:icon="@drawable/about_icon"           
+          />
+
+</menu>

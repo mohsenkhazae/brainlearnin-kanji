@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal"    
+    
+    >
+
+	<Button 
+		android:id="@+id/session_opened_flashcard_button"
+		android:layout_width="300dp"
+    	android:layout_height="wrap_content"
+    	android:text="@string/session_opened_flashcard_button"
+    	style="@style/BLButton"
+    	android:layout_marginBottom="30dp"
+    	android:layout_marginTop="30dp"
+    />
+    
+    
+    
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/session_opened_layout"
+	    android:orientation="horizontal"
+	    android:layout_width="300dp"
+	    android:layout_height="wrap_content"
+	    android:gravity="center_horizontal"    
+	    android:layout_below="@id/session_opened_flashcard_button"
+    
+    >
+    
+		<Button 
+			android:id="@+id/session_opened_on_button"
+			android:layout_width="142.5dp"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/session_opened_on_button"
+	    	style="@style/BLButton"	    	
+	    	android:layout_marginRight="7.5dp"
+	    	android:layout_marginBottom="30dp"
+	    	android:layout_marginTop="30dp"
+	    />
+	    
+	    <Button 
+			android:id="@+id/session_opened_kun_button"
+			android:layout_width="142.5dp"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/session_opened_kun_button"
+	    	android:layout_toRightOf="@id/session_opened_on_button"
+        	android:layout_alignTop="@id/session_opened_on_button"
+        	android:layout_alignParentRight="true"
+	    	style="@style/BLButton"	    	
+	    	android:layout_marginLeft="7.5dp"
+	    	android:layout_marginBottom="30dp"
+	    	android:layout_marginTop="30dp"
+	    />
+    
+    </LinearLayout>
+    
+    
+    
+    <Button 
+		android:id="@+id/session_opened_onkun_button"
+		android:layout_width="300dp"
+    	android:layout_height="wrap_content"    	
+    	android:layout_below="@id/session_opened_layout"
+    	android:text="@string/session_opened_onkun_button"
+    	style="@style/BLButton"
+    	android:layout_marginBottom="30dp"
+    	android:layout_marginTop="30dp"
+    />
+        
+    <Button 
+		android:id="@+id/session_opened_meanings_button"
+		android:layout_width="300dp"
+    	android:layout_height="wrap_content"
+    	android:layout_below="@id/session_opened_onkun_button"
+    	android:text="@string/session_opened_meanings_button"
+    	style="@style/BLButton"
+    	android:layout_marginBottom="30dp"
+    	android:layout_marginTop="30dp"
+    />
+    
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"	    
+	    android:orientation="horizontal"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="center_horizontal"    
+	    android:layout_below="@id/session_opened_meanings_button">
+	    
+	    <CheckBox android:id="@+id/session_opened_grading_check"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="@string/session_opened_grading_check" 
+        	android:layout_marginRight="30dp"
+        	style="@style/BLText"
+        	/>
+        	
+        <CheckBox android:id="@+id/session_opened_quick_quiz_check"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="@string/session_opened_quick_quiz_check"
+        	style="@style/BLText" 
+        	/>
+    
+    >
+    
+    </LinearLayout>
+    
+
+
+</LinearLayout>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+ 
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"
+	android:orientation="vertical">
+	
+	<RelativeLayout android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:id="@+id/top_control_bar">
+
+	</RelativeLayout>
+	
+	<LinearLayout android:id="@+id/bottom_control_bar"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		
+		android:orientation="vertical"
+    	android:gravity="center_horizontal"
+		>
+		<RelativeLayout android:id="@+id/bottom_control_bar_1"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:orientation="horizontal"
+	    	android:gravity="center_horizontal"
+			>
+			<Button
+				android:id="@+id/edit_kanji_prev_button" 				
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content"
+				android:layout_alignParentLeft="true"				
+				android:text="@string/select_kanji_prev_button"
+				 />
+				 				 
+			<Button 
+				android:id="@+id/edit_kanji_edit_button"				
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_centerHorizontal="true"				
+				android:text="@string/edit_kanji_edit_button"				
+				 />
+				 				
+			<Button 
+				android:id="@+id/edit_kanji_next_button"				
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignParentRight="true"				
+				android:text="@string/select_kanji_next_button"				
+				 />
+		</RelativeLayout>
+	
+	</LinearLayout>
+	
+		
+	<ListView 
+		android:id="@android:id/list" 
+		android:layout_width="fill_parent"
+		android:layout_height="0dip" 
+		android:choiceMode="singleChoice"
+		android:layout_below="@id/top_control_bar" 
+		android:layout_above="@id/bottom_control_bar">
+	</ListView>	
+	
+	<TextView 
+		android:id="@android:id/empty" 
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:text=""
+		android:layout_below="@id/top_control_bar" 
+		android:layout_above="@id/bottom_control_bar" 
+	/>
+	
+		
+	
+</RelativeLayout>
+ 
+

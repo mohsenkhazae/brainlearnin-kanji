@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="global_preferences_title">Global Preferences</string>
+	<string name="session_preferences_title">Session Preferences</string>
+
+	<string name="first_run_title">First time?</string>
+	<string name="first_run_info">A gentle reminder.. there is help available through the menus :)</string>
+	
+	<string name="warn_on_small_display_title">Display Warning</string>
+	<string name="warn_on_small_display_info">Brain Learnin\' Kanji is best used on displays with a height of at least 800 pixels (such as WVGA). Your experience may be a little less than happy :(.</string>
+
+	<string name="OK">OK</string>
+	<string name="Cancel">Cancel</string>
+	
+	<string name="err_title">Error</string>
+	<string name="success">Success</string>
+	
+	<string name="location">Location</string>
+
+    <string name="hello">Welcome to Brain Learnin\'</string>
+    <string name="app_name">Kanji Brain Learnin\'</string>
+	<string name="button_kanji_front_door_text">Kanji</string>
+	<string name="button_vocabulary_front_door_text">Vocabulary</string>
+	<string name="kanji_front_door_title">Brain Learnin\' Kanji Front Door</string>
+	<string name="front_door_no_last_title">No Sessions</string>
+	<string name="front_door_no_last_message">No sessions have been started yet. Select \"New Session\".</string>
+	
+	<string name="menu_sync">Sync with Google</string>
+	<string name="menu_about">About</string>
+	<string name="menu_help">Help</string>
+	<string name="menu_session_preferences">Session Preferences</string>
+	<string name="menu_grading_stats">Grading Stats</string>
+	<string name="menu_num_leitners">Num Pending Info</string>
+	
+	<string name="button_front_door_text_new_session">New Session</string>
+	<string name="button_front_door_text_open_session">Open Session</string>
+	<string name="button_front_door_text_last_session">Last Session</string>
+	<string name="button_front_door_text_about">About</string>	
+	
+	<string name="no_sessions_to_open">No sessions to open</string>
+	
+	<string name="new_session_title">New Session</string>
+	<string name="textview_empty_new_session_import">No items to choose from :(</string>
+	<string name="button_new_session_import">Import New</string>
+	<string name="button_new_session_open_selected">Open Selected</string>
+	<string name="delete_template_missing">Selected template can not be deleted</string>
+	<string name="delete_template_conf_title">Delete Template?</string>
+	<string name="delete_template_confirm">Are you sure you want to delete template:</string> 
+	
+	<string name="import_template_title">Import New Template</string>
+	<string name="no_path">No File Selected</string>
+	<string name="button_import_template_browse">Browse to File</string>
+	<string name="button_import_template_import">Import Selected</string>
+	<string name="button_import_template_export_sample">Export Sample</string>
+	<string name="import_template_no_file">No file selected</string>
+	<string name="import_template_template_err">Error opening template</string>
+	<string name="import_template_template_no_title">No TemplateName in template xml</string>
+	<string name="import_template_manifest_open_err">Couldn\'t open user manifest!</string>
+	<string name="import_template_manifest_duplicate_err">We already have a template with the same name!</string>
+	<string name="import_sample_template_template_err">Couldn\'t import template for some reason :(</string>
+	<string name="import_sample_template_manifest_write_err">There was a catastrophic error writing the user manifest!</string>
+	<string name="menu_rename_template">Rename Template</string>
+	<string name="menu_delete_template">Delete Template</string>
+	<string name="rename_template_duplicate_err">There\'s already a template with the same name</string>
+	<string name="rename_template_cant_rename">Unable to rename selected template</string>
+	
+	<string name="name_new_session_label">Enter new session name</string>
+	
+	<string name="load_template_browser_title">Select Template File To Import</string>
+	<string name="load_template_browser_dir_err">Unable to open folder</string>
+	
+	<string name="select_directory_browser_title">Select Directory</string>
+	<string name="button_select_directory_select">Select Directory</string>
+	<string name="button_select_directory_cancel">Cancel</string>
+	
+	<string name="export_sample_template_template_err">Error exporting sample template</string>
+	<string name="export_sample_template_template_success">Successfully wrote out sample template</string>
+	
+	<string name="rename_template_type_here_label">Enter new template name:</string>
+	
+	<string name="rename_session_type_here_label">Enter new session name:</string>
+	
+	<string name="open_session_title">Open Session</string>
+	<string name="menu_rename_session">Rename Session</string>
+	<string name="menu_delete_session">Delete Session</string>
+	<string name="delete_session_conf_title">Delete Session?</string>
+	<string name="delete_session_confirm">Are you sure you want to delete session:</string>
+	<string name="delete_session_err_title">Fatal error!</string>
+	<string name="delete_session_err">Fatal error trying to delete session.. very, very super bad.</string>
+	<string name="delete_session_file_err_title">Fatal error!</string>
+	<string name="delete_session_file_err">Fatal error trying to delete session file.. super bad.</string>
+	
+	<string name="session_opened_title">Session Opened</string>
+	<string name="session_opened_flashcard_button">Flashcard</string>
+	<string name="session_opened_on_button">オン</string>
+	<string name="session_opened_kun_button">くん</string>
+	<string name="session_opened_onkun_button">オン &amp; くん</string>
+	<string name="session_opened_meanings_button">Meanings</string>
+	<string name="session_opened_grading_check">Enable Grading</string>
+	<string name="session_opened_quick_quiz_check">Quick Quiz</string>
+	<string name="session_opened_wait_message">Opening quiz.. Please wait..</string>
+	
+	<string name="import_quiz_err_title">Quiz Import Error</string>
+	<string name="import_quiz_err_message">A fatal error occurred when importing quiz session!</string>
+	
+	<string name="select_kanji_title_base">Select kanji for</string>
+	<string name="select_kanji_title_flashcard">flashcard set</string>
+	<string name="select_kanji_title_test">test set</string>
+	<string name="select_kanji_prev_button">Prev</string>
+	<string name="select_kanji_next_button">Next</string>
+	<string name="select_kanji_clear_button">Clear All</string>
+	<string name="select_kanji_all_button">Select All</string>
+	<string name="menu_edit_kanji">Edit Kanji</string>
+	<string name="menu_edit_selected_kanji">Edit Selected Kanji</string>
+	<string name="menu_add_kanji">Add New Kanji</string>
+	<string name="menu_delete_selected_kanji">Delete Selected Kanji</string>
+	<string name="delete_glyph_confirm">Actually delete glyph:</string>
+	
+	
+	<string name="selectEditKanji">Select Kanji to Edit</string>
+	<string name="selectEditKanji_correct_title">List of Correctly Answered Kanji</string>
+	<string name="edit_kanji_edit_button">Edit Kanji</string>
+	
+	<string name="editKanjiTitle">Edit Kanji</string>
+	<string name="editNewKanjiTitle">Edit New Kanji</string>
+	<string name="button_edit_kanji_update">Update Kanji</string>
+	<string name="button_edit_kanji_add">Add Kanji</string>
+	<string name="edit_kanji_kanji_title">Kanji:</string>
+	<string name="edit_kanji_on_title">オン Readings:</string>
+	<string name="edit_kanji_kun_title">くん Readings:</string>
+	<string name="edit_kanji_meanings_title">Meanings:</string>
+	
+	<string name="editLeitnerTitle">Edit Leitner Levels</string>
+	<string name="edit_leitner_append_button">Append</string>
+	<string name="edit_leitner_edit_button">Edit</string>
+	<string name="edit_leitner_delete_button">Delete</string>
+	
+	<string name="edit_leitner_label">Edit Leitner Level:</string>
+	
+	<string name="flashCardTitle">Flashcards</string>
+	<string name="kanji_flash_next_button">Next Kanji</string>
+	<string name="kanji_flash_flip_button">Flip Card</string>
+	
+	<string name="mainQuizTitle">Quiz</string>
+	<string name="main_quiz_fail_button">Fail</string>
+	<string name="main_quiz_verity_button">Verify</string>
+	<string name="main_quiz_cheat_button">Pass</string>
+	<string name="main_quiz_on_text">オン</string>
+	<string name="main_quiz_kun_text">くん</string>
+	<string name="main_quiz_meanings_text">Meanings</string>
+	<string name="main_quiz_no_entries_title">No entries in test</string>
+	<string name="main_quiz_no_entries_message">No entries in test. Open up the quiz preferences and add some entries to the quiz test set.</string>
+	
+	<string name="scoringTitle">Quiz Scoring</string>
+	<string name="button_show_grading_stats">Show Grading Statistics</string>
+	<string name="button_show_correct_kanji_answered">Show Correctly Answered Kanji</string>
+	<string name="button_show_incorrect_kanji_answered">Show Incorrectly Answered Kanji</string>
+	<string name="label_num_due_questions_not_asked">Number of due questions not asked:</string>
+	<string name="label_num_all_correct">Number answered correctly:</string>
+	<string name="label_num_first_answer_correct">Number initially answered correctly:</string>
+	<string name="label_num_incorrect_answer">Number incorrectly answered:</string>
+	
+	<string name="grading_stats_title">Grading Stats</string>
+	<string name="incorrect_answer_list_title">Incorrectly Answered Kanji</string>
+	<string name="incorrect_answer_mark_correct_button">Mark Correct</string>
+		
+	<string name="num_leitner_list_title">Number Due Questions</string>
+	<string name="label_num_due_on_questions_test_list">Num Due オン in Test List:</string>
+	<string name="label_num_due_kun_questions_test_list">Num Due くん in Test List:</string>
+	<string name="label_num_due_meanings_questions_test_list">Num Due Meanings in Test List:</string>
+	<string name="label_num_due_on_questions_test_list_tomorrow">Num Due オン in Tomorrow\'s Test List:</string>
+	<string name="label_num_due_kun_questions_test_list_tomorrow">Num Due くん in Tomorrow\'s Test List:</string>
+	<string name="label_num_due_meanings_questions_test_list_tomorrow">Num Due Meanings in Tomorrow\'s Test List:</string>
+	<string name="label_num_due_on_questions_all_list">Num Due オン in Full List:</string>
+	<string name="label_num_due_kun_questions_all_list">Num Due くん in Full List:</string>
+	<string name="label_num_due_meanings_questions_all_list">Num Due Meanings in Full List:</string>
+	
+	<string name="pref_onKunTextSize_title">おん / くん Text Size</string>
+	<string name="pref_onKunTextSize_summary">Text Size for おん / くん readings</string>
+	<string name="pref_meaningsTextSize_title">Meanings Text Size</string>
+	<string name="pref_meaningsTextSize_summary">Text Size for English readings</string>	
+	<string name="pref_maxEntriesPerSession_title">Max Entries per Session</string>
+	<string name="pref_maxEntriesPerSession_summary">Maximum number of entries in a quiz session</string>	
+	<string name="pref_minQuestionLocality_title">Min Question Locality</string>
+	<string name="pref_minQuestionLocality_summary">If possible, answer this number of questions before repeating</string>	
+	<string name="pref_maxQuestionLocality_title">Max Question Locality</string>
+	<string name="pref_maxQuestionLocality_summary">If possible, answer at most this number of questions before repeating</string>	
+	<string name="pref_numTimesToRepeatCorrectUntilAccepted_title">Num Times To Repeat</string>
+	<string name="pref_numTimesToRepeatCorrectUntilAccepted_summary">Correctly answer questions this many times before accepting it</string>	
+	<string name="pref_doRealLeitner_title">Drop All Levels</string>
+	<string name="pref_doRealLeitner_summary">When question is answered incorrectly, drop back to level 0 (or just one level if false)</string>	
+	<string name="pref_showWordCycle_title">Show Word Cycle Count</string>
+	<string name="pref_showWordCycle_summary">Show or hide the word cycle count during quiz</string>	
+	<string name="pref_resetCorrectCountOnWrongAnswer_title">Reset Correct Count</string>
+	<string name="pref_resetCorrectCountOnWrongAnswer_summary">Should the correct answer count be reset on incorrect answer (or decremented by one, depending on Drop All Levels)</string>	
+	<string name="pref_doRandomFlashcardMode_title">Random Flashcard Mode</string>
+	<string name="pref_doRandomFlashcardMode_summary">If true, flashcard mode will run in random. Otherwise it\'ll be sequential.</string>	
+	<string name="pref_testKanji_title">Test Kanji</string>
+	<string name="pref_testKanji_summary">Select kanji for test set</string>
+	<string name="pref_flashcardKanji_title">Flashcard Kanji</string>
+	<string name="pref_flashcardKanji_summary">Select kanji for flashcard learning set</string>
+	<string name="pref_editKanji_title">Edit Kanji</string>
+	<string name="pref_editKanji_summary">Edit kanji in session</string>	
+	<string name="pref_levels_title">Adjust Levels</string>
+	<string name="pref_levels_summary">Adjust Leitner grading timeouts</string>
+	
+	
+	<string name="open_session_no_sessions_err">No sessions available to open. Use the \"New Session\" button from the first view to add a session.</string>
+	
+	<string name="help_title_base">Brain Learnin\' Help:</string>
+	
+	<string name="about_title">About Brain Learnin\'</string>
+	
+	<string name="select_kanji_base_title">Select kanji for test/flashcard set</string>
+		
+	<string name="about_text">&lt;h1&gt;&lt;u&gt;Brain Learnin\': Kanji&lt;/u&gt;&lt;/h1&gt;&lt;p/&gt;It ain\'t learnin\' if it ain\'t Brain Learnin\'!&lt;p/&gt;&lt;p/&gt;&lt;p/&gt;								
+								Written by Chris Mennie (&lt;a href=\"mailto:chris@chrismennie.ca\"&gt;chris@chrismennie.ca&lt;/a&gt; or &lt;a href=\"mailto:cmennie@rogers.com\"&gt;cmennie@rogers.com&lt;/a&gt;)&lt;p/&gt;
+								&lt;br/&gt;
+								&lt;br/&gt;
+								&lt;h2&gt;Acknowledgements:&lt;/h2&gt;&lt;p/&gt;
+								
+								Background: &lt;a href="http://www.flickr.com/photos/calebkimbrough/sets/72157623212295309/detail/"&gt;http://www.flickr.com/photos/calebkimbrough/sets/72157623212295309/detail&lt;/a&gt;&lt;p/&gt;
+								Brain icon: &lt;a href="http://hartwigenglish303.wikispaces.com/Eng+ILA+Sem.+2/"&gt;http://hartwigenglish303.wikispaces.com/Eng+ILA+Sem.+2&lt;/a&gt;&lt;p/&gt;
+								Icons: &lt;a href="http://www.androidicons.com/freebies.php"&gt;http://www.androidicons.com/freebies.php&lt;/a&gt;&lt;p/&gt;
+								Sample kanji data: &lt;a href="http://www.csse.monash.edu.au/~jwb/kanjidic2"&gt;http://www.csse.monash.edu.au/~jwb/kanjidic2&lt;/a&gt;&lt;p/&gt;								
+								&lt;br/&gt;
+								&lt;br/&gt;
+								
+								&lt;h2&gt;License:&lt;/h2&gt;&lt;p/&gt;
+								&lt;p/&gt;
+								Brain Learnin\' Kanji -- A kanji learning tool for the Android platform
+							    Copyright (C) 2011 Chris A. Mennie								
+								&lt;p/&gt;
+							    Brain Learnin\' Kanji is free software: you can redistribute it and/or modify
+							    it under the terms of the GNU General Public License as published by
+							    the Free Software Foundation, either version 3 of the License, or
+							    (at your option) any later version.
+								&lt;p/&gt;
+							    Brain Learnin\' Kanji is distributed in the hope that it will be useful,
+							    but WITHOUT ANY WARRANTY; without even the implied warranty of
+							    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+							    GNU General Public License for more details.
+								&lt;p/&gt;
+							    You should have received a copy of the GNU General Public License
+							    along with Brain Learnin\' Kanji.  If not, see &lt;a href="http://www.gnu.org/licenses/"&gt;http://www.gnu.org/licenses/&lt;/a&gt;.								
+	</string>
+	
+	<string name="front_door_help_text">
+		Welcome to Brain Learnin\' Kanji!
+		&lt;p/&gt;
+		
+		If this is your first time running you\'ll want to select the "New Session" button.
+		&lt;p/&gt;
+		
+		The \"New Session\" button allows you to select an imported list of kanji and begin quizzing with it. 
+		
+		&lt;p/&gt;
+		The \"Open Sesson\" button presents a list of previously imported kanji sets to select and work from. Often you\'ll only work from a single session at a time, 
+		but we here at Brain Learnin\' want to be as flexible as possible.
+		
+		&lt;p/&gt;
+		The \"Last Session\" button will open the last session you worked from without having to select it from the set of imported kanjis. Once you\'ve started 
+		working through a kanji set, this is probably what you\'ll always select initially.
+		
+		&lt;p/&gt;
+		The \"About\" button shows you some basic information about the application.
+		
+		&lt;p/&gt;
+		We can also edit the global preferences through the menu. These preferences are inherited when new sessions are created. 
+	</string>
+	
+	<string name="new_session_help_text">
+		The \"New Session\" view allows you to select an imported kanji set to start working with. Along with a number of built-in kanji sets, we list here any 
+		sets the user has previously imported.
+		&lt;p/&gt;
+		
+		To being working with a template, select it from the list, and press the \"Open Selected\" button.
+		&lt;p/&gt;
+		
+		If you have a new template to import then select the \"Import New\" button.
+		&lt;p/&gt;
+		
+		In addition to opening and importing kanji sets, we can also (for user sets) rename and delete them. Simply long press on an item in the list or pop
+		up the menu and select \"Rename Template\" or \"Delete Template\".
+	</string>
+	
+	<string name="import_template_help_text">
+		The \"Import New Template\" view allows you to add new template kanji sets. These imported sets will then become available in the list on the \"New Session\" view.
+		&lt;p/&gt;
+		
+		Selecting \"Browse To File\" will take you to a file browser. Navigate to and select the xml file to be imported.
+		&lt;p/&gt;
+		
+		Once a file has been selected, using the \"Import Selected\" button will, on success, import the given file and add it to the list of available kanji sets.
+		&lt;p/&gt;
+		
+		To aid in developing custom kanji sets, we can export a small sample file to the SD card (or wherever) with the \"Export Sample\" button. Use this for great good.
+	</string>
+	
+	<string name="select_directory_browser_help_text">
+		We are presented with a simple directory browser. Navigate to the directory in which you wish to export the sample kanji set.
+		&lt;p/&gt;
+		
+		Once the target directory is selected, press the \"Select Directory\" button to write out the sample xml.
+		&lt;p/&gt;
+		
+		Should you change your mind, the \"Cancel\" button will return you to the previous view.
+	</string>
+	
+	<string name="open_session_help_text">
+		Here is a list of all the sessions created through the \"New Session\" view. To continue working on a particular session, select it from the list and press the 
+		\"Open Selected\" button.
+		&lt;p/&gt;
+		
+		As a convenience, you can use the \"Last Session\" from the initial view to quickly continue the last session opened.
+		&lt;p/&gt;
+		
+		In addition to opening a session, we can also rename and delete them. Simply long press on an item in the list or pop up the menu and select \"Rename Session\" or \"Delete Session\".
+	</string>
+	
+	<string name="grading_stats_help_text">
+		We have here a list of all the kanji in the session, presented 20 at a time. Each row in the list displays the kanji on the left and three numbers on the right.
+		These three numbers represent the Leitner grade of the kanji for オン, くん, and Meanings answers, respectively.
+		&lt;p/&gt;
+		
+		To navigate forward or back by 20 kanji, use the \"Prev\" and \"Next\" buttons. 
+	</string>
+	
+	<string name="num_leitner_list_help_text">
+		This view provides some information about the number of due questions based on their respective Leitner grades.
+	</string>
+	
+	<string name="session_opened_help_text">
+		Once a session is opened, we end up in this view.
+		&lt;p/&gt;
+		
+		To study using a flashcard-like interface, select the \"Flashcard\" button.
+		&lt;p/&gt;
+		
+		The remaining buttons begin a quiz for the selected quiz type. Once a quiz type button is selected, the app will move onto the main quiz view.
+		&lt;p/&gt;
+		
+		The \"オン\" button asks questions for only オン readings.
+		&lt;p/&gt;
+		
+		The \"くん\" button asks questions for only くん readings.
+		&lt;p/&gt;
+		
+		The \"オン &amp; くん\" button asks questions for both オン and くん readings.
+		&lt;p/&gt;
+		
+		The \"Meanings\" button asks questions for the meanings of the kanji.
+		&lt;p/&gt;
+		
+		Checking \"Enable Grading\" enables the use of Leitner grading during the main quiz.
+		&lt;p/&gt;
+		
+		Checking \"Quick Quiz\" creates a quiz of up to 20 entries, asks each question only once and doesn\'t use Leitner grading.  
+	</string>
+	
+	<string name="flashCard_help_text">
+		The flashcard view has two sides. The first displays the current kanji, and the second lists the readings and meanings for it.
+		&lt;p/&gt;
+		
+		To switch between the two sides, use the \"Flip Card\" button.
+		&lt;p/&gt;
+		
+		To move on to the next kanji, select the \"Next Kanji\" button.
+		&lt;p/&gt;
+		
+		To change the kanji in the flashcard set, you need to edit them through the session preferences from the previous view (through the menu). 
+	</string>
+	
+	<string name="mainQuiz_help_text">
+		This is the heart of the whole app. The quiz.
+		&lt;p/&gt;
+		
+		At the top of the screen we have a progress bar representing the number of completed questions. Immediately below that we have on the left a 
+		counter telling us the number of times we\'ve correctly answered the current question. To the right of that we have a counter for the number
+		of completed questions.
+		&lt;p/&gt;
+		
+		Below that will be either \"オン\", \"くん\", or \"Meanings\" displayed against a faintly coloured background. This indicates the type of
+		question being asked (and is really only meaningful when quizzing with both オン and くん questions at the same time).
+		&lt;p/&gt;
+		
+		Underneath that we have the current kanji in question and an entry box below in which to input our answer. The entered answer will be verified 
+		if enter/return is pressed on the keypad or if the \"Verify\" button is selected.
+		&lt;p/&gt;
+		
+		To skip the current question we can use the \"Fail\" or \"Pass\" buttons to simulate an incorrect or correct answer, respectively.
+		&lt;p/&gt;
+		
+		After each question the answer will be shown with either a red or green background to indicate if the answer was incorrect or correct, respectively.
+		&lt;p/&gt;  
+		
+		To change the kanji in the test set, you need to edit them through the session preferences from the previous view (through the menu).
+	</string>
+	
+	<string name="scoring_help_text">
+		After completing a quiz we end up here for some stats.
+		&lt;p/&gt; 
+		
+		To see the grading statistics of the quiz kanjis, use the \"Show Grading Statistics\" button.
+		&lt;p/&gt;
+		
+		A list of the kanji that were answered correctly can be seen by pressing the \"Show Correctly Answered Kanji\" button.
+		&lt;p/&gt;
+		
+		A list of the kanji that were not answered correctly can be seen by pressing the \"Show Incorrectly Answered Kanji\" button. We can also cheat on the test and
+		mark incorrectly answered kanji as correct through this view.
+	</string>
+	
+	<string name="incorrect_answer_list_help_text">
+		We have here a list of kanji that were incorrectly answered during the previous test. Beside each kanji is a letter representing the type of question for
+		that entry. The letter \'O\' means オン, \'K\' means くん, and \'M\' means Meanings. At the far right of each row is the kanji index, which is largely unimportant.
+		&lt;p/&gt;
+		
+		If we select an entry and press the \"Mark Correct\" button, the selected question type will be treated as if it was originally entered correctly during the
+		quiz. Don\'t cheat yourself. However, if a typo found its way into the answer, this is the way to correct it.
+		&lt;p/&gt;
+		
+		The kanji are listed 20 at a time. Use the \"Prev\" and \"Next\" buttons to show the previous or next 20 in the overall list.		 
+	</string>
+	
+	<string name="select_kanji_help_text">
+		You have the power to decide what kanji are included in the flashcard and quiz sets. Do you want to quiz on all of them, or only the select few you\'re currently
+		learning? We divine that here. At the far right of each row is the kanji index, which is largely unimportant.
+		&lt;p/&gt;
+		
+		Select the kanji you want to be included in the flashcard / quiz set. Use the \"Clear All\" and \"Select All\" buttons to clear all selections or select all kanjis,
+		respectively.
+		&lt;p/&gt; 
+		
+		The kanji are listed 20 at a time. Use the \"Prev\" and \"Next\" buttons to show the previous or next 20 in the overall list.
+	</string>
+	
+	<string name="selectEditKanji_help_text">
+		This view allows you to edit the kanji in the session.
+		&lt;p/&gt;
+		
+		To edit a particular kanji, select it in the list and press the \"Edit Kanji\" button or use the \"Edit Selected Kanji\" menu item. Alternatively you can long press 
+		any item in the list and choose \"Edit Selected Kanji\" from the context menu.
+		&lt;p/&gt;
+		
+		Similarly, to delete a kanji we can select it and use the \"Delete Selected Kanji\" menu item or long press a kanji and select the same from the context menu.
+		&lt;p/&gt;
+		
+		Adding a new kanji is also available through the menu or context menu by the \"Add New Kanji\" option.
+		&lt;p/&gt;
+		
+		The kanji are listed 20 at a time. Use the \"Prev\" and \"Next\" buttons to show the previous or next 20 in the overall list.		 		 			
+	</string>
+	
+	<string name="editLeitner_help_text">
+		Every kanji is given grades for its オン, くん, and meanings. These grades increment when correctly answered and fall back when not. For each grade there\'s a timeout
+		period where the kanji attribute won\'t be quizzed again until expired. Those timeout periods are what we\'re looking at here.
+		&lt;p/&gt;
+		
+		Each row corresponds to the timeout length in days (ignoring the time) on the left and the corresponding grade on the right.
+		&lt;p/&gt;
+		
+		To edit a particular grade, simply select it and press the \"Edit\" button.
+		&lt;p/&gt;
+		
+		Deleting a grade involved selecting a row and pressing the \"Delete\" button.
+		&lt;p/&gt;
+		
+		We can also add a new grade by pressing the \"Append\" button. This will append a new grade that is 1.5 times the duration of the last one.  
+	</string>
+	
+	<string name="editKanji_help_text">
+		This view allows you to edit the properties of a kanji.
+		&lt;p/&gt; 
+		
+		Use the \"Update Kanji\" button to commit any changes. If you use the back button the changes won\'t be committed.
+	</string>
+	
+	<string name="global_preferences_help_text">
+		&lt;u&gt;Max Entries per Session&lt;/u&gt;
+		&lt;p/&gt;
+		
+		The maximum number of questions to ask in a quiz, regardless of the number due. Set this to something very large if you want to always be
+		asked everything due.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Min Question Locality&lt;/u&gt;
+		&lt;p/&gt;
+		
+		When a question is asked again, we\'ll try not to ask it before this number of other questions has been asked first.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Max Question Locality&lt;/u&gt;
+		&lt;p/&gt;
+		
+		When a question is asked again, we\'ll try our best to repeat it within this number of questions. 
+		&lt;p/&gt;
+		
+		&lt;u&gt;Num Times To Repeat&lt;/u&gt;
+		&lt;p/&gt;
+		
+		To ensure you really know the answer and didn\'t just luck out, we\'ll require you to answer each question correctly (in a row) this many
+		times before accepting it as correct. Personally we recommend three, but for a boring quiz you can set it to one.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Drop All Levels&lt;/u&gt;
+		&lt;p/&gt;
+		
+		When a question is answered incorrectly, if this is checked then the word cycle count will drop back down to zero. However, if this 
+		is unchecked we\'ll only drop it back by one. Don\'t uncheck it.. you\'re only cheating yourself.		
+		&lt;p/&gt;
+		
+		&lt;u&gt;Show Word Cycle Count&lt;/u&gt;
+		&lt;p/&gt;
+				
+		If checked, we\'ll show the number of times the current question has been answered correctly (out of the number of times its supposed to
+		repeat). This can be distracting and/or provide hints, so you may wish to consider disabling it.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Reset Correct Count&lt;/u&gt;
+		&lt;p/&gt;
+		
+		If this is checked, the word cycle count will be altered (based on the Drop All Levels setting) after an incorrectly answered question. 
+		If you\'d prefer the word cycle count to not be affected by an incorrect answer, uncheck this. 
+		&lt;p/&gt;
+		
+		&lt;u&gt;Random Flashcard Mode&lt;/u&gt;
+		&lt;p/&gt;
+		
+		When looking at flashcards, if this is checked the kanji order will be random. Otherwise, we\'ll show them in a sequential order.
+	</string>
+	
+	<string name="session_preferences_help_text">
+		&lt;u&gt;Max Entries per Session&lt;/u&gt;
+		&lt;p/&gt;
+		
+		The maximum number of questions to ask in a quiz, regardless of the number due. Set this to something very large if you want to always be
+		asked everything due.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Min Question Locality&lt;/u&gt;
+		&lt;p/&gt;
+		
+		When a question is asked again, we\'ll try not to ask it before this number of other questions has been asked first.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Max Question Locality&lt;/u&gt;
+		&lt;p/&gt;
+		
+		When a question is asked again, we\'ll try our best to repeat it within this number of questions. 
+		&lt;p/&gt;
+		
+		&lt;u&gt;Num Times To Repeat&lt;/u&gt;
+		&lt;p/&gt;
+		
+		To ensure you really know the answer and didn\'t just luck out, we\'ll require you to answer each question correctly (in a row) this many
+		times before accepting it as correct. Personally we recommend three, but for a boring quiz you can set it to one.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Drop All Levels&lt;/u&gt;
+		&lt;p/&gt;
+		
+		When a question is answered incorrectly, if this is checked then the word cycle count will drop back down to zero. However, if this 
+		is unchecked we\'ll only drop it back by one. Don\'t uncheck it.. you\'re only cheating yourself.		
+		&lt;p/&gt;
+		
+		&lt;u&gt;Show Word Cycle Count&lt;/u&gt;
+		&lt;p/&gt;
+				
+		If checked, we\'ll show the number of times the current question has been answered correctly (out of the number of times its supposed to
+		repeat). This can be distracting and/or provide hints, so you may wish to consider disabling it.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Reset Correct Count&lt;/u&gt;
+		&lt;p/&gt;
+		
+		If this is checked, the word cycle count will be altered (based on the Drop All Levels setting) after an incorrectly answered question. 
+		If you\'d prefer the word cycle count to not be affected by an incorrect answer, uncheck this. 
+		&lt;p/&gt;
+		
+		&lt;u&gt;Random Flashcard Mode&lt;/u&gt;
+		&lt;p/&gt;
+		
+		When looking at flashcards, if this is checked the kanji order will be random. Otherwise, we\'ll show them in a sequential order.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Test Kanji&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Specify the kanji to select from when taking a quiz. 
+		&lt;p/&gt;
+		
+		&lt;u&gt;Flashcard Kanji&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Specify the kanji to select from when using flashcards.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Edit Kanji&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Edit the kanji that are in this session.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Adjust Levels&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Change the grade timeouts for when using Leitner grading.
+		&lt;p/&gt;
+	</string>
+</resources>

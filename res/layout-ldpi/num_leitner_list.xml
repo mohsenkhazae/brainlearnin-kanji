@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout  
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal" 
+		>
+		
+		<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    	android:layout_width="wrap_content"
+			android:layout_height="wrap_content" 		
+	    	>
+	    
+		    <TableRow>
+		        <TextView	            		        	
+		            android:text="@string/label_num_due_on_questions_test_list"
+		            style="@style/BLTextSM"
+		            android:padding="3dp" />
+		        <TextView		        	
+		        	android:id="@+id/val_num_due_on_questions_test_list"
+		            android:text="XXXX"
+		            style="@style/BLTextSM"
+		            android:gravity="center"
+		            android:padding="3dp" />
+		    </TableRow>
+		    
+		    <TableRow>
+		        <TextView
+		        	style="@style/BLTextSM"	            
+		            android:text="@string/label_num_due_kun_questions_test_list"
+		            android:padding="3dp" />
+		        <TextView
+		        	style="@style/BLTextSM"
+		        	android:id="@+id/val_num_due_kun_questions_test_list"
+		            android:text="XXXX"
+		            android:gravity="center"
+		            android:padding="3dp" />
+		    </TableRow>
+		    
+		    <TableRow
+		    	android:paddingBottom="10dp"
+		    >
+		        <TextView
+		        	style="@style/BLTextSM"	            
+		            android:text="@string/label_num_due_meanings_questions_test_list"
+		            android:padding="3dp" />
+		        <TextView
+		        	style="@style/BLTextSM"
+		        	android:id="@+id/val_num_due_meanings_questions_test_list"
+		            android:text="XXXX"
+		            android:gravity="center"
+		            android:padding="3dp" />
+		    </TableRow>
+	    
+	    
+	    	<TableRow>
+		        <TextView
+		        	style="@style/BLTextSM"	            
+		            android:text="@string/label_num_due_on_questions_test_list_tomorrow"
+		            android:padding="3dp" />
+		        <TextView
+		        	style="@style/BLTextSM"
+		        	android:id="@+id/val_num_due_on_questions_test_list_tomorrow"
+		            android:text="XXXX"
+		            android:gravity="center"
+		            android:padding="3dp" />
+		    </TableRow>
+		    
+		    <TableRow>
+		        <TextView	            
+		        	style="@style/BLTextSM"
+		            android:text="@string/label_num_due_kun_questions_test_list_tomorrow"
+		            android:padding="3dp" />
+		        <TextView
+		        	style="@style/BLTextSM"
+		        	android:id="@+id/val_num_due_kun_questions_test_list_tomorrow"
+		            android:text="XXXX"
+		            android:gravity="center"
+		            android:padding="3dp" />
+		    </TableRow>
+		    
+		    <TableRow
+		    	android:paddingBottom="10dp"
+		    >
+		        <TextView
+		        	style="@style/BLTextSM"	            
+		            android:text="@string/label_num_due_meanings_questions_test_list_tomorrow"
+		            android:padding="3dp" />
+		        <TextView
+		        	style="@style/BLTextSM"
+		        	android:id="@+id/val_num_due_meanings_questions_test_list_tomorrow"
+		            android:text="XXXX"
+		            android:gravity="center"
+		            android:padding="3dp" />
+		    </TableRow>
+	    
+	    
+	    	<TableRow>
+		        <TextView
+		        	style="@style/BLTextSM"	            
+		            android:text="@string/label_num_due_on_questions_all_list"
+		            android:padding="3dp" />
+		        <TextView
+		        	style="@style/BLTextSM"
+		        	android:id="@+id/val_num_due_on_questions_all_list"
+		            android:text="XXXX"
+		            android:gravity="center"
+		            android:padding="3dp" />
+		    </TableRow>
+		    
+		    <TableRow>
+		        <TextView	            
+		        	style="@style/BLTextSM"
+		            android:text="@string/label_num_due_kun_questions_all_list"
+		            android:padding="3dp" />
+		        <TextView
+		        	style="@style/BLTextSM"
+		        	android:id="@+id/val_num_due_kun_questions_all_list"
+		            android:text="XXXX"
+		            android:gravity="center"
+		            android:padding="3dp" />
+		    </TableRow>
+		    
+		    <TableRow>
+		        <TextView
+		        	style="@style/BLTextSM"	            
+		            android:text="@string/label_num_due_meanings_questions_all_list"
+		            android:padding="3dp" />
+		        <TextView
+		        	style="@style/BLTextSM"
+		        	android:id="@+id/val_num_due_meanings_questions_all_list"
+		            android:text="XXXX"
+		            android:gravity="center"
+		            android:padding="3dp" />
+		    </TableRow>
+	        
+    </TableLayout>
+		
+</LinearLayout>		

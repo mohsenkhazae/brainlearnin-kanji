@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"    
+    android:gravity="center_horizontal"     
+    >
+    
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:layout_width="wrap_content"
+		android:layout_height="fill_parent"
+		android:gravity="center"
+		>
+    
+	    <TableRow>
+
+		<Button 
+			android:id="@+id/button_front_door_last_session"
+			android:layout_width="200dip"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/button_front_door_text_last_session"
+	    	android:layout_marginBottom="25dip"
+        	android:layout_marginTop="25dip"
+        	android:layout_marginLeft="25dip"
+        	android:layout_marginRight="25dip"
+	    />
+	    
+		<Button 
+			android:id="@+id/button_front_door_new_session"
+			android:layout_width="200dip"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/button_front_door_text_new_session"
+	    	android:layout_marginBottom="25dip"
+        	android:layout_marginTop="25dip"
+        	android:layout_marginLeft="25dip"
+        	android:layout_marginRight="25dip"
+	    />
+	    </TableRow>
+    
+	    <TableRow>
+		    <Button 
+				android:id="@+id/button_front_door_open_session"
+				android:layout_width="200dip"
+		    	android:layout_height="wrap_content"
+		    	android:text="@string/button_front_door_text_open_session"
+		    	android:layout_marginBottom="25dip"
+        		android:layout_marginTop="25dip"
+        		android:layout_marginLeft="25dip"
+        		android:layout_marginRight="25dip"
+		    />
+		    
+		    <Button 
+				android:id="@+id/button_front_door_about"
+				android:layout_width="200dip"
+		    	android:layout_height="wrap_content"
+		    	android:text="@string/button_front_door_text_about"
+		    	android:layout_marginBottom="25dip"
+        		android:layout_marginTop="25dip"
+        		android:layout_marginLeft="25dip"
+        		android:layout_marginRight="25dip"
+		    />
+		    
+	    </TableRow>
+	    
+	</TableLayout>
+
+</LinearLayout>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.brainlearnin.kanji" android:versionName="1.0" android:versionCode="3">
+    <application android:icon="@drawable/brain_icon" android:label="@string/app_name"
+					android:theme="@style/app_theme"					
+					>        
+        <activity android:name=".FrontDoor"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".About"
+                  android:label="@string/about_title">
+        </activity>
+        
+        <activity android:name=".NewSession"
+                  android:label="@string/new_session_title">
+        </activity>
+        
+        <activity android:name=".ImportTemplate"
+                  android:label="@string/import_template_title">
+        </activity>
+        
+        <activity android:name=".LoadTemplateBrowser"
+                  android:label="@string/load_template_browser_title">
+        </activity>
+        
+        <activity android:name=".SelectDirectoryBrowser"
+                  android:label="@string/select_directory_browser_title">
+        </activity>
+        
+        <activity android:name=".GlobalPreferencesDialog"
+                  android:label="@string/global_preferences_title"                                    
+                  >
+        </activity>
+        
+        <activity android:name=".SessionPreferences"
+                  android:label="@string/session_preferences_title">
+        </activity>
+        
+        <activity android:name=".NameNewSessionDialog"
+                  android:label="___NOTHING___">
+        </activity>
+        
+        <activity android:name=".OpenSession"
+                  android:label="@string/open_session_title">
+        </activity>
+        
+        <activity android:name=".SessionOpened"
+                  android:label="@string/session_opened_title">
+        </activity>
+        
+        <activity android:name=".SelectKanji"
+                  android:label="SELECT KANJI TITLE">
+        </activity>
+        
+        <activity android:name=".SelectEditKanji"
+                  android:label="@string/selectEditKanji">
+        </activity>
+        
+        <activity android:name=".EditKanji"
+                  android:label="@string/editKanjiTitle">
+        </activity>
+        
+        <activity android:name=".EditLeitner"
+                  android:label="@string/editLeitnerTitle">
+        </activity>
+        
+        <activity android:name=".FlashCard"
+                  android:label="@string/flashCardTitle">
+        </activity>
+        
+        <activity android:name=".MainQuiz"
+                  android:label="@string/mainQuizTitle">
+        </activity>
+        
+        <activity android:name=".Scoring"
+                  android:label="@string/scoringTitle">
+        </activity>
+        
+        <activity android:name=".IncorrectAnswerList"
+                  android:label="@string/incorrect_answer_list_title">
+        </activity>
+        
+        <activity android:name=".GradingStats"
+                  android:label="@string/grading_stats_title">
+        </activity>
+        
+        <activity android:name=".NumLeitnerList"
+                  android:label="@string/num_leitner_list_title">
+        </activity>
+
+    </application>
+    <uses-sdk   android:minSdkVersion="7"
+    			android:targetSdkVersion="11"
+     />
+    <supports-screens 
+    	android:smallScreens="true"
+        android:normalScreens="true"
+        android:largeScreens="true"        
+        android:anyDensity="true"
+    		/>
+	<!-- android:xlargeScreens="true" -->    		
+    		
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    
+
+</manifest> 

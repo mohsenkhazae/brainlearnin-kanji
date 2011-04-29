@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+<template file="grades1_6" name="Kanji: Grades 1 through 6"/>
+<template file="grade1" name="Kanji: Grade 1"/>
+<template file="grade1_fr" name="Kanji: Niveau 1"/>
+<template file="grade2" name="Kanji: Grade 2"/>
+<template file="grade3" name="Kanji: Grade 3"/>
+<template file="grade4" name="Kanji: Grade 4"/>
+<template file="grade5" name="Kanji: Grade 5"/>
+<template file="grade6" name="Kanji: Grade 6"/>
+</templates>

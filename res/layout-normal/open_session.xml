@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+ 
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"
+	android:orientation="vertical">
+	
+	<RelativeLayout android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:id="@+id/top_control_bar">
+
+	</RelativeLayout>
+	
+	<LinearLayout android:id="@+id/bottom_control_bar"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		
+		android:orientation="vertical"
+    	android:gravity="center_horizontal"
+		>
+			
+		<Button 
+			android:id="@+id/button_open_selected"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/button_new_session_open_selected"		
+			style="@style/BLButtonSM"	
+			 />
+	</LinearLayout>
+	
+	<ListView 
+		android:id="@android:id/list" 
+		android:layout_width="fill_parent"
+		android:layout_height="0dp" 
+		android:choiceMode="singleChoice"
+		android:layout_below="@id/top_control_bar" 
+		android:layout_above="@id/bottom_control_bar">
+	</ListView>
+		
+	<TextView 
+		android:id="@android:id/empty" 
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:text="@string/no_sessions_to_open"
+		style="@style/BLTextSM"
+		android:layout_below="@id/top_control_bar" 
+		android:layout_above="@id/bottom_control_bar" 
+	/>
+</RelativeLayout>
+ 
+ 

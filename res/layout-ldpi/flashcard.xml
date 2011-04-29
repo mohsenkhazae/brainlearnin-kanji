@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"
+	android:orientation="vertical">
+	
+	<RelativeLayout android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:id="@+id/top_control_bar">
+
+	</RelativeLayout>
+	
+	<LinearLayout android:id="@+id/bottom_control_bar"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		
+		android:orientation="horizontal"
+    	android:gravity="center_horizontal"
+		>
+		
+		<Button 
+			android:id="@+id/kanji_flash_flip_button"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/kanji_flash_flip_button"			
+			android:layout_marginRight="30dp"
+			style="@style/BLButtonSM"
+			 />
+			
+		<Button 
+			android:id="@+id/kanji_flash_next_button"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_toRightOf="@id/kanji_flash_flip_button"
+        	android:layout_alignTop="@id/kanji_flash_flip_button"
+        	android:layout_alignParentRight="true"
+			android:text="@string/kanji_flash_next_button"
+			android:layout_marginLeft="30dp"
+			style="@style/BLButtonSM"			
+			 />
+			 
+			 
+	</LinearLayout>
+	
+	
+	
+	<ScrollView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 		
+		android:layout_below="@id/top_control_bar" 
+		android:layout_above="@id/bottom_control_bar"
+	>
+
+	<RelativeLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content">
+		
+		<RelativeLayout
+			android:layout_width="wrap_content"
+			android:layout_height="fill_parent" 	
+			android:id="@+id/kanji_flash_kanji_layout">
+			
+			<TextView
+		        android:id="@+id/edit_kanji_kanji_title"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:text="@string/edit_kanji_kanji_title"
+		        style="@style/BLTextSM"
+		        android:layout_marginBottom="30dp"
+		        android:padding="5dp"
+		        />
+		        	        
+		    <TextView
+		        android:id="@+id/edit_kanji_kanji_edit"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:layout_below="@id/edit_kanji_kanji_title"
+		        android:textSize="116.666666666667sp"
+		        android:gravity="center"
+		        android:textColor="#fff"
+		        />
+		</RelativeLayout>
+	        	    	
+	
+	<RelativeLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/kanji_flash_meanings_layout" 		
+	>		
+	        
+	    <TextView
+	        android:id="@+id/edit_kanji_on_title"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/edit_kanji_on_title"
+	        style="@style/BLTextSM"
+	        />
+	        
+	    <TextView
+	        android:id="@+id/edit_kanji_on_edit"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"	        	        
+	        android:background="@drawable/rounded_edittext"
+	        android:layout_below="@id/edit_kanji_on_title"
+	        android:layout_marginBottom="30dp"
+	        android:layout_marginTop="10dp"	        
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginRight="10dp"
+	        android:paddingLeft="9dp"
+	        android:paddingRight="9dp"
+	        style="@style/BLTextSM"
+	        android:inputType="none"
+	        android:editable="false"
+	        />
+	        
+	    <TextView
+	        android:id="@+id/edit_kanji_kun_title"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@id/edit_kanji_on_edit"
+	        android:text="@string/edit_kanji_kun_title"
+	        style="@style/BLTextSM"
+	        />
+	        
+	    <TextView
+	        android:id="@+id/edit_kanji_kun_edit"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"	        
+	        android:background="@drawable/rounded_edittext"
+	        android:layout_below="@id/edit_kanji_kun_title"
+	        android:layout_marginBottom="30dp"
+	        android:layout_marginTop="10dp"	        
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginRight="10dp"
+	        android:paddingLeft="9dp"
+	        android:paddingRight="9dp"
+	        android:inputType="none"
+	        android:editable="false"
+	        style="@style/BLTextSM"
+	        />
+	        
+	    <TextView
+	        android:id="@+id/edit_kanji_meanings_title"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@id/edit_kanji_kun_edit"
+	        android:text="@string/edit_kanji_meanings_title"
+	        style="@style/BLTextSM"
+	        />
+	        
+	    <TextView
+	        android:id="@+id/edit_kanji_meanings_edit"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:background="@drawable/rounded_edittext"
+	        android:layout_marginTop="10dp"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginRight="10dp"
+	        android:layout_below="@id/edit_kanji_meanings_title"
+	        android:paddingLeft="9dp"
+	        android:paddingRight="9dp"
+	        style="@style/BLTextSM"
+	        android:inputType="none"
+	        android:editable="false"
+	        />
+	    
+	</RelativeLayout>
+	</RelativeLayout>
+	
+
+	</ScrollView>
+	
+
+</RelativeLayout>
+	

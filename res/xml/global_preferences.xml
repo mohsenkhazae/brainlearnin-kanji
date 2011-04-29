@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Preferences">
+    <!-- 
+        <EditTextPreference android:key="pref_onKunTextSize" android:title="@string/pref_onKunTextSize_title" android:summary="@string/pref_onKunTextSize_summary"></EditTextPreference>
+        <EditTextPreference android:key="pref_meaningsTextSize" android:title="@string/pref_meaningsTextSize_title" android:summary="@string/pref_meaningsTextSize_summary"></EditTextPreference>
+	-->        
+        <EditTextPreference android:key="pref_maxEntriesPerSession" android:title="@string/pref_maxEntriesPerSession_title" android:summary="@string/pref_maxEntriesPerSession_summary"></EditTextPreference>
+        <EditTextPreference android:key="pref_minQuestionLocality" android:title="@string/pref_minQuestionLocality_title" android:summary="@string/pref_minQuestionLocality_summary"></EditTextPreference>
+        <EditTextPreference android:key="pref_maxQuestionLocality" android:title="@string/pref_maxQuestionLocality_title" android:summary="@string/pref_maxQuestionLocality_summary"></EditTextPreference>
+        <EditTextPreference android:key="pref_numTimesToRepeatCorrectUntilAccepted" android:title="@string/pref_numTimesToRepeatCorrectUntilAccepted_title" android:summary="@string/pref_numTimesToRepeatCorrectUntilAccepted_summary"></EditTextPreference>
+        
+        <CheckBoxPreference android:key="pref_doRealLeitner" android:title="@string/pref_doRealLeitner_title" android:defaultValue="false" android:summary="@string/pref_doRealLeitner_summary"/>
+        <CheckBoxPreference android:key="pref_showWordCycle" android:title="@string/pref_showWordCycle_title" android:defaultValue="false" android:summary="@string/pref_showWordCycle_summary"/>
+        <CheckBoxPreference android:key="pref_resetCorrectCountOnWrongAnswer" android:title="@string/pref_resetCorrectCountOnWrongAnswer_title" android:defaultValue="false" android:summary="@string/pref_resetCorrectCountOnWrongAnswer_summary"/>
+        <CheckBoxPreference android:key="pref_doRandomFlashcardMode" android:title="@string/pref_doRandomFlashcardMode_title" android:defaultValue="false" android:summary="@string/pref_doRandomFlashcardMode_summary"/>
+	</PreferenceCategory>
+ 
+</PreferenceScreen>

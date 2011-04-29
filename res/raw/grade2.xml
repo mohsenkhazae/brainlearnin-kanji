@@ -1,0 +1,2721 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KanjiQuizConfig>
+<GlyphStats>
+<glyphStat>
+<glyph>万</glyph>
+<index>80</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>バン</onReading>
+<onReading>マン</onReading>
+<kunReading>よろず</kunReading>
+<meaning>ten thousand</meaning>
+<meaning>10,000</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>画</glyph>
+<index>81</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>エ</onReading>
+<onReading>カイ</onReading>
+<onReading>カク</onReading>
+<onReading>ガ</onReading>
+<kunReading>えが</kunReading>
+<kunReading>かぎ</kunReading>
+<kunReading>かく</kunReading>
+<kunReading>はか</kunReading>
+<kunReading>はかりごと</kunReading>
+<meaning>brush-stroke</meaning>
+<meaning>picture</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>昼</glyph>
+<index>82</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>チュウ</onReading>
+<kunReading>ひる</kunReading>
+<meaning>daytime</meaning>
+<meaning>noon</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>夏</glyph>
+<index>83</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>カ</onReading>
+<onReading>ガ</onReading>
+<onReading>ゲ</onReading>
+<kunReading>なつ</kunReading>
+<meaning>summer</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>内</glyph>
+<index>84</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ダイ</onReading>
+<onReading>ナイ</onReading>
+<kunReading>うち</kunReading>
+<meaning>inside</meaning>
+<meaning>within</meaning>
+<meaning>between</meaning>
+<meaning>among</meaning>
+<meaning>house</meaning>
+<meaning>home</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>半</glyph>
+<index>85</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ハン</onReading>
+<kunReading>なか</kunReading>
+<meaning>half</meaning>
+<meaning>middle</meaning>
+<meaning>odd number</meaning>
+<meaning>semi-</meaning>
+<meaning>part-</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>丸</glyph>
+<index>86</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ガン</onReading>
+<kunReading>まる</kunReading>
+<meaning>round</meaning>
+<meaning>full</meaning>
+<meaning>month</meaning>
+<meaning>perfection</meaning>
+<meaning>-ship</meaning>
+<meaning>pills</meaning>
+<meaning>make round</meaning>
+<meaning>roll up</meaning>
+<meaning>curl up</meaning>
+<meaning>seduce</meaning>
+<meaning>explain away</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>午</glyph>
+<index>87</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ゴ</onReading>
+<kunReading>うま</kunReading>
+<meaning>noon</meaning>
+<meaning>sign of the horse</meaning>
+<meaning>11AM-1PM</meaning>
+<meaning>seventh sign of Chinese zodiac</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>少</glyph>
+<index>88</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ショウ</onReading>
+<kunReading>すく</kunReading>
+<kunReading>すこ</kunReading>
+<meaning>few</meaning>
+<meaning>little</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>来</glyph>
+<index>89</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>タイ</onReading>
+<onReading>ライ</onReading>
+<kunReading>き</kunReading>
+<kunReading>きた</kunReading>
+<kunReading>く</kunReading>
+<kunReading>こ</kunReading>
+<meaning>come</meaning>
+<meaning>due</meaning>
+<meaning>next</meaning>
+<meaning>cause</meaning>
+<meaning>become</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>東</glyph>
+<index>90</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>トウ</onReading>
+<kunReading>ひがし</kunReading>
+<meaning>east</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>才</glyph>
+<index>91</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>サイ</onReading>
+<meaning>genius</meaning>
+<meaning>years old</meaning>
+<meaning>cubic shaku</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>元</glyph>
+<index>92</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ガン</onReading>
+<onReading>ゲン</onReading>
+<kunReading>もと</kunReading>
+<meaning>beginning</meaning>
+<meaning>former time</meaning>
+<meaning>origin</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>市</glyph>
+<index>93</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シ</onReading>
+<kunReading>いち</kunReading>
+<meaning>market</meaning>
+<meaning>city</meaning>
+<meaning>town</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>交</glyph>
+<index>94</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>コウ</onReading>
+<kunReading>か</kunReading>
+<kunReading>かわ</kunReading>
+<kunReading>こもごも</kunReading>
+<kunReading>ま</kunReading>
+<kunReading>まじ</kunReading>
+<meaning>mingle</meaning>
+<meaning>mixing</meaning>
+<meaning>association</meaning>
+<meaning>coming and going</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>京</glyph>
+<index>95</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>キョウ</onReading>
+<onReading>キン</onReading>
+<onReading>ケイ</onReading>
+<kunReading>みやこ</kunReading>
+<meaning>capital</meaning>
+<meaning>10**16</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>夜</glyph>
+<index>96</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ヤ</onReading>
+<kunReading>よ</kunReading>
+<kunReading>よる</kunReading>
+<meaning>night</meaning>
+<meaning>evening</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>今</glyph>
+<index>97</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>キン</onReading>
+<onReading>コン</onReading>
+<kunReading>いま</kunReading>
+<meaning>now</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>会</glyph>
+<index>98</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>エ</onReading>
+<onReading>カイ</onReading>
+<kunReading>あ</kunReading>
+<kunReading>あつ</kunReading>
+<meaning>meeting</meaning>
+<meaning>meet</meaning>
+<meaning>party</meaning>
+<meaning>association</meaning>
+<meaning>interview</meaning>
+<meaning>join</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>合</glyph>
+<index>99</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>カッ</onReading>
+<onReading>ガッ</onReading>
+<onReading>ゴウ</onReading>
+<kunReading>あ</kunReading>
+<kunReading>あい</kunReading>
+<meaning>fit</meaning>
+<meaning>suit</meaning>
+<meaning>join</meaning>
+<meaning>0.1</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>体</glyph>
+<index>100</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>タイ</onReading>
+<onReading>テイ</onReading>
+<kunReading>かたち</kunReading>
+<kunReading>からだ</kunReading>
+<meaning>body</meaning>
+<meaning>substance</meaning>
+<meaning>object</meaning>
+<meaning>reality</meaning>
+<meaning>counter for images</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>作</glyph>
+<index>101</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>サ</onReading>
+<onReading>サク</onReading>
+<kunReading>つく</kunReading>
+<kunReading>づく</kunReading>
+<meaning>make</meaning>
+<meaning>production</meaning>
+<meaning>prepare</meaning>
+<meaning>build</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>何</glyph>
+<index>102</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>カ</onReading>
+<kunReading>なに</kunReading>
+<kunReading>なん</kunReading>
+<meaning>what</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>分</glyph>
+<index>103</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>フン</onReading>
+<onReading>ブ</onReading>
+<onReading>ブン</onReading>
+<kunReading>わ</kunReading>
+<meaning>part</meaning>
+<meaning>minute of time</meaning>
+<meaning>segment</meaning>
+<meaning>share</meaning>
+<meaning>degree</meaning>
+<meaning>one's lot</meaning>
+<meaning>duty</meaning>
+<meaning>understand</meaning>
+<meaning>know</meaning>
+<meaning>rate</meaning>
+<meaning>1%</meaning>
+<meaning>chances</meaning>
+<meaning>shaku/100</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>公</glyph>
+<index>104</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ク</onReading>
+<onReading>コウ</onReading>
+<kunReading>おおやけ</kunReading>
+<meaning>public</meaning>
+<meaning>prince</meaning>
+<meaning>official</meaning>
+<meaning>governmental</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>弟</glyph>
+<index>105</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ダイ</onReading>
+<onReading>テイ</onReading>
+<onReading>デ</onReading>
+<kunReading>おとうと</kunReading>
+<meaning>younger brother</meaning>
+<meaning>faithful service to elders</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>前</glyph>
+<index>106</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ゼン</onReading>
+<kunReading>まえ</kunReading>
+<meaning>in front</meaning>
+<meaning>before</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>同</glyph>
+<index>107</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ドウ</onReading>
+<kunReading>おな</kunReading>
+<meaning>same</meaning>
+<meaning>agree</meaning>
+<meaning>equal</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>弱</glyph>
+<index>108</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ジャク</onReading>
+<kunReading>よわ</kunReading>
+<meaning>weak</meaning>
+<meaning>frail</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>刀</glyph>
+<index>109</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>トウ</onReading>
+<kunReading>かたな</kunReading>
+<kunReading>そり</kunReading>
+<meaning>sword</meaning>
+<meaning>saber</meaning>
+<meaning>knife</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>切</glyph>
+<index>110</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>サイ</onReading>
+<onReading>セツ</onReading>
+<kunReading>き</kunReading>
+<kunReading>ぎ</kunReading>
+<meaning>cut</meaning>
+<meaning>cutoff</meaning>
+<meaning>be sharp</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>北</glyph>
+<index>111</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ホク</onReading>
+<kunReading>きた</kunReading>
+<meaning>north</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>古</glyph>
+<index>112</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>コ</onReading>
+<kunReading>ふる</kunReading>
+<meaning>old</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>直</glyph>
+<index>113</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ジカ</onReading>
+<onReading>ジキ</onReading>
+<onReading>チョク</onReading>
+<kunReading>す</kunReading>
+<kunReading>ただ</kunReading>
+<kunReading>なお</kunReading>
+<meaning>straightaway</meaning>
+<meaning>honesty</meaning>
+<meaning>frankness</meaning>
+<meaning>fix</meaning>
+<meaning>repair</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>南</glyph>
+<index>114</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ナ</onReading>
+<onReading>ナン</onReading>
+<kunReading>みなみ</kunReading>
+<meaning>south</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>点</glyph>
+<index>115</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>テン</onReading>
+<kunReading>さ</kunReading>
+<kunReading>た</kunReading>
+<kunReading>つ</kunReading>
+<kunReading>とぼ</kunReading>
+<kunReading>とも</kunReading>
+<kunReading>ぼち</kunReading>
+<meaning>spot</meaning>
+<meaning>point</meaning>
+<meaning>mark</meaning>
+<meaning>speck</meaning>
+<meaning>decimal point</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>原</glyph>
+<index>116</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ゲン</onReading>
+<kunReading>はら</kunReading>
+<meaning>meadow</meaning>
+<meaning>original</meaning>
+<meaning>primitive</meaning>
+<meaning>field</meaning>
+<meaning>plain</meaning>
+<meaning>prairie</meaning>
+<meaning>tundra</meaning>
+<meaning>wilderness</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>台</glyph>
+<index>117</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>タイ</onReading>
+<onReading>ダイ</onReading>
+<kunReading>うてな</kunReading>
+<kunReading>つかさ</kunReading>
+<kunReading>われ</kunReading>
+<meaning>pedestal</meaning>
+<meaning>a stand</meaning>
+<meaning>counter for machines and vehicles</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>友</glyph>
+<index>118</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ユウ</onReading>
+<kunReading>とも</kunReading>
+<meaning>friend</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>兄</glyph>
+<index>119</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>キョウ</onReading>
+<onReading>ケイ</onReading>
+<kunReading>あに</kunReading>
+<meaning>elder brother</meaning>
+<meaning>big brother</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>鳴</glyph>
+<index>120</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>メイ</onReading>
+<kunReading>な</kunReading>
+<meaning>chirp</meaning>
+<meaning>cry</meaning>
+<meaning>bark</meaning>
+<meaning>sound</meaning>
+<meaning>ring</meaning>
+<meaning>echo</meaning>
+<meaning>honk</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>回</glyph>
+<index>121</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>エ</onReading>
+<onReading>カイ</onReading>
+<kunReading>か</kunReading>
+<kunReading>まわ</kunReading>
+<kunReading>もとお</kunReading>
+<meaning>-times</meaning>
+<meaning>round</meaning>
+<meaning>game</meaning>
+<meaning>revolve</meaning>
+<meaning>counter for occurrences</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>図</glyph>
+<index>122</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ズ</onReading>
+<onReading>ト</onReading>
+<kunReading>え</kunReading>
+<kunReading>はか</kunReading>
+<meaning>map</meaning>
+<meaning>drawing</meaning>
+<meaning>plan</meaning>
+<meaning>unexpected</meaning>
+<meaning>accidentally</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>国</glyph>
+<index>123</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>コク</onReading>
+<kunReading>くに</kunReading>
+<meaning>country</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>園</glyph>
+<index>124</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>エン</onReading>
+<kunReading>その</kunReading>
+<meaning>park</meaning>
+<meaning>garden</meaning>
+<meaning>yard</meaning>
+<meaning>farm</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>寺</glyph>
+<index>125</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ジ</onReading>
+<kunReading>てら</kunReading>
+<meaning>Buddhist temple</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>地</glyph>
+<index>126</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ジ</onReading>
+<onReading>チ</onReading>
+<meaning>ground</meaning>
+<meaning>earth</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>声</glyph>
+<index>127</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ショウ</onReading>
+<onReading>セイ</onReading>
+<kunReading>こえ</kunReading>
+<kunReading>こわ</kunReading>
+<meaning>voice</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>売</glyph>
+<index>128</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>バイ</onReading>
+<kunReading>う</kunReading>
+<meaning>sell</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>場</glyph>
+<index>129</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ジョウ</onReading>
+<onReading>チョウ</onReading>
+<kunReading>ば</kunReading>
+<meaning>location</meaning>
+<meaning>place</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>冬</glyph>
+<index>130</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>トウ</onReading>
+<kunReading>ふゆ</kunReading>
+<meaning>winter</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>外</glyph>
+<index>131</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ガイ</onReading>
+<onReading>ゲ</onReading>
+<kunReading>そと</kunReading>
+<kunReading>と</kunReading>
+<kunReading>はず</kunReading>
+<kunReading>ほか</kunReading>
+<meaning>outside</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>多</glyph>
+<index>132</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>タ</onReading>
+<kunReading>おお</kunReading>
+<kunReading>まさ</kunReading>
+<meaning>many</meaning>
+<meaning>frequent</meaning>
+<meaning>much</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>太</glyph>
+<index>133</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>タ</onReading>
+<onReading>タイ</onReading>
+<kunReading>ふと</kunReading>
+<meaning>plump</meaning>
+<meaning>thick</meaning>
+<meaning>big around</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>妹</glyph>
+<index>134</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>マイ</onReading>
+<kunReading>いもうと</kunReading>
+<meaning>younger sister</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>姉</glyph>
+<index>135</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シ</onReading>
+<kunReading>あね</kunReading>
+<kunReading>はは</kunReading>
+<meaning>elder sister</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>室</glyph>
+<index>136</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シツ</onReading>
+<kunReading>むろ</kunReading>
+<meaning>room</meaning>
+<meaning>apartment</meaning>
+<meaning>chamber</meaning>
+<meaning>greenhouse</meaning>
+<meaning>cellar</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>家</glyph>
+<index>137</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>カ</onReading>
+<onReading>ケ</onReading>
+<kunReading>いえ</kunReading>
+<kunReading>うち</kunReading>
+<kunReading>や</kunReading>
+<meaning>house</meaning>
+<meaning>home</meaning>
+<meaning>family</meaning>
+<meaning>professional</meaning>
+<meaning>expert</meaning>
+<meaning>performer</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>光</glyph>
+<index>138</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>コウ</onReading>
+<kunReading>ひか</kunReading>
+<kunReading>ひかり</kunReading>
+<meaning>ray</meaning>
+<meaning>light</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>当</glyph>
+<index>139</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>トウ</onReading>
+<kunReading>あ</kunReading>
+<kunReading>まさ</kunReading>
+<meaning>hit</meaning>
+<meaning>right</meaning>
+<meaning>appropriate</meaning>
+<meaning>himself</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>岩</glyph>
+<index>140</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ガン</onReading>
+<kunReading>いわ</kunReading>
+<meaning>boulder</meaning>
+<meaning>rock</meaning>
+<meaning>cliff</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>工</glyph>
+<index>141</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ク</onReading>
+<onReading>グ</onReading>
+<onReading>コウ</onReading>
+<meaning>craft</meaning>
+<meaning>construction</meaning>
+<meaning>katakana e radical (no. 48)</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>広</glyph>
+<index>142</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>コウ</onReading>
+<kunReading>ひろ</kunReading>
+<meaning>wide</meaning>
+<meaning>broad</meaning>
+<meaning>spacious</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>店</glyph>
+<index>143</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>テン</onReading>
+<kunReading>たな</kunReading>
+<kunReading>みせ</kunReading>
+<meaning>store</meaning>
+<meaning>shop</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>弓</glyph>
+<index>144</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>キュウ</onReading>
+<kunReading>ゆみ</kunReading>
+<meaning>bow</meaning>
+<meaning>bow (archery, violin)</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>引</glyph>
+<index>145</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>イン</onReading>
+<kunReading>ひ</kunReading>
+<kunReading>び</kunReading>
+<meaning>pull</meaning>
+<meaning>tug</meaning>
+<meaning>jerk</meaning>
+<meaning>admit</meaning>
+<meaning>install</meaning>
+<meaning>quote</meaning>
+<meaning>refer to</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>強</glyph>
+<index>146</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>キョウ</onReading>
+<onReading>ゴウ</onReading>
+<kunReading>こわ</kunReading>
+<kunReading>し</kunReading>
+<kunReading>つよ</kunReading>
+<meaning>strong</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>帰</glyph>
+<index>147</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>キ</onReading>
+<kunReading>おく</kunReading>
+<kunReading>かえ</kunReading>
+<kunReading>とつ</kunReading>
+<meaning>homecoming</meaning>
+<meaning>arrive at</meaning>
+<meaning>lead to</meaning>
+<meaning>result in</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>形</glyph>
+<index>148</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ギョウ</onReading>
+<onReading>ケイ</onReading>
+<kunReading>かた</kunReading>
+<kunReading>かたち</kunReading>
+<kunReading>がた</kunReading>
+<kunReading>なり</kunReading>
+<meaning>shape</meaning>
+<meaning>form</meaning>
+<meaning>style</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>後</glyph>
+<index>149</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>コウ</onReading>
+<onReading>ゴ</onReading>
+<kunReading>あと</kunReading>
+<kunReading>うし</kunReading>
+<kunReading>うしろ</kunReading>
+<kunReading>おく</kunReading>
+<kunReading>のち</kunReading>
+<meaning>behind</meaning>
+<meaning>back</meaning>
+<meaning>later</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>心</glyph>
+<index>150</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シン</onReading>
+<kunReading>こころ</kunReading>
+<kunReading>ごころ</kunReading>
+<meaning>heart</meaning>
+<meaning>mind</meaning>
+<meaning>spirit</meaning>
+<meaning>heart radical (no. 61)</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>戸</glyph>
+<index>151</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>コ</onReading>
+<kunReading>と</kunReading>
+<meaning>door</meaning>
+<meaning>counter for houses</meaning>
+<meaning>door radical (no. 63)</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>教</glyph>
+<index>152</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>キョウ</onReading>
+<kunReading>おし</kunReading>
+<kunReading>おそ</kunReading>
+<meaning>teach</meaning>
+<meaning>faith</meaning>
+<meaning>doctrine</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>数</glyph>
+<index>153</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>サク</onReading>
+<onReading>シュ</onReading>
+<onReading>ス</onReading>
+<onReading>スウ</onReading>
+<onReading>ソク</onReading>
+<kunReading>かず</kunReading>
+<kunReading>かぞ</kunReading>
+<kunReading>しばしば</kunReading>
+<kunReading>せ</kunReading>
+<kunReading>わずらわ</kunReading>
+<meaning>number</meaning>
+<meaning>strength</meaning>
+<meaning>fate</meaning>
+<meaning>law</meaning>
+<meaning>figures</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>新</glyph>
+<index>154</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シン</onReading>
+<kunReading>あたら</kunReading>
+<kunReading>あら</kunReading>
+<kunReading>にい</kunReading>
+<meaning>new</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>方</glyph>
+<index>155</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ホウ</onReading>
+<kunReading>かた</kunReading>
+<kunReading>がた</kunReading>
+<meaning>direction</meaning>
+<meaning>person</meaning>
+<meaning>alternative</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>明</glyph>
+<index>156</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ミョウ</onReading>
+<onReading>ミン</onReading>
+<onReading>メイ</onReading>
+<kunReading>あ</kunReading>
+<kunReading>あか</kunReading>
+<kunReading>あき</kunReading>
+<meaning>bright</meaning>
+<meaning>light</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>星</glyph>
+<index>157</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ショウ</onReading>
+<onReading>セイ</onReading>
+<kunReading>ほし</kunReading>
+<kunReading>ぼし</kunReading>
+<meaning>star</meaning>
+<meaning>spot</meaning>
+<meaning>dot</meaning>
+<meaning>mark</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>春</glyph>
+<index>158</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シュン</onReading>
+<kunReading>はる</kunReading>
+<meaning>springtime</meaning>
+<meaning>spring (season)</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>時</glyph>
+<index>159</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ジ</onReading>
+<kunReading>とき</kunReading>
+<kunReading>どき</kunReading>
+<meaning>time</meaning>
+<meaning>hour</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>晴</glyph>
+<index>160</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>セイ</onReading>
+<kunReading>は</kunReading>
+<kunReading>ば</kunReading>
+<meaning>clear up</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>曜</glyph>
+<index>161</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ヨウ</onReading>
+<meaning>weekday</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>楽</glyph>
+<index>162</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ガク</onReading>
+<onReading>ゴウ</onReading>
+<onReading>ラク</onReading>
+<kunReading>この</kunReading>
+<kunReading>たの</kunReading>
+<meaning>music</meaning>
+<meaning>comfort</meaning>
+<meaning>ease</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>歌</glyph>
+<index>163</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>カ</onReading>
+<kunReading>うた</kunReading>
+<meaning>song</meaning>
+<meaning>sing</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>止</glyph>
+<index>164</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シ</onReading>
+<kunReading>さ</kunReading>
+<kunReading>と</kunReading>
+<kunReading>とど</kunReading>
+<kunReading>ど</kunReading>
+<kunReading>や</kunReading>
+<kunReading>よ</kunReading>
+<meaning>stop</meaning>
+<meaning>halt</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>歩</glyph>
+<index>165</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>フ</onReading>
+<onReading>ブ</onReading>
+<onReading>ホ</onReading>
+<kunReading>あゆ</kunReading>
+<kunReading>ある</kunReading>
+<meaning>walk</meaning>
+<meaning>counter for steps</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>母</glyph>
+<index>166</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ボ</onReading>
+<kunReading>はは</kunReading>
+<kunReading>も</kunReading>
+<meaning>mother</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>毎</glyph>
+<index>167</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>マイ</onReading>
+<kunReading>ごと</kunReading>
+<meaning>every</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>毛</glyph>
+<index>168</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>モウ</onReading>
+<kunReading>け</kunReading>
+<meaning>fur</meaning>
+<meaning>hair</meaning>
+<meaning>feather</meaning>
+<meaning>down</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>池</glyph>
+<index>169</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>チ</onReading>
+<kunReading>いけ</kunReading>
+<meaning>pond</meaning>
+<meaning>cistern</meaning>
+<meaning>pool</meaning>
+<meaning>reservoir</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>汽</glyph>
+<index>170</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>キ</onReading>
+<meaning>vapor</meaning>
+<meaning>steam</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>活</glyph>
+<index>171</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>カツ</onReading>
+<kunReading>い</kunReading>
+<meaning>lively</meaning>
+<meaning>resuscitation</meaning>
+<meaning>being helped</meaning>
+<meaning>living</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>海</glyph>
+<index>172</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>カイ</onReading>
+<kunReading>うみ</kunReading>
+<meaning>sea</meaning>
+<meaning>ocean</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>父</glyph>
+<index>173</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>フ</onReading>
+<kunReading>ちち</kunReading>
+<meaning>father</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>牛</glyph>
+<index>174</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ギュウ</onReading>
+<kunReading>うし</kunReading>
+<meaning>cow</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>理</glyph>
+<index>175</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>リ</onReading>
+<kunReading>ことわり</kunReading>
+<meaning>logic</meaning>
+<meaning>arrangement</meaning>
+<meaning>reason</meaning>
+<meaning>justice</meaning>
+<meaning>truth</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>用</glyph>
+<index>176</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ヨウ</onReading>
+<kunReading>もち</kunReading>
+<meaning>utilize</meaning>
+<meaning>business</meaning>
+<meaning>service</meaning>
+<meaning>use</meaning>
+<meaning>employ</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>思</glyph>
+<index>177</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シ</onReading>
+<kunReading>おぼ</kunReading>
+<kunReading>おも</kunReading>
+<kunReading>おもえら</kunReading>
+<meaning>think</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>矢</glyph>
+<index>178</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シ</onReading>
+<kunReading>や</kunReading>
+<meaning>dart</meaning>
+<meaning>arrow</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>知</glyph>
+<index>179</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>チ</onReading>
+<kunReading>し</kunReading>
+<meaning>know</meaning>
+<meaning>wisdom</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>社</glyph>
+<index>180</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シャ</onReading>
+<kunReading>やしろ</kunReading>
+<meaning>company</meaning>
+<meaning>firm</meaning>
+<meaning>office</meaning>
+<meaning>association</meaning>
+<meaning>shrine</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>科</glyph>
+<index>181</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>カ</onReading>
+<meaning>department</meaning>
+<meaning>course</meaning>
+<meaning>section</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>秋</glyph>
+<index>182</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シュウ</onReading>
+<kunReading>あき</kunReading>
+<kunReading>とき</kunReading>
+<meaning>autumn</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>答</glyph>
+<index>183</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>トウ</onReading>
+<kunReading>こた</kunReading>
+<meaning>solution</meaning>
+<meaning>answer</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>算</glyph>
+<index>184</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>サン</onReading>
+<kunReading>そろ</kunReading>
+<meaning>calculate</meaning>
+<meaning>divining</meaning>
+<meaning>number</meaning>
+<meaning>abacus</meaning>
+<meaning>probability</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>米</glyph>
+<index>185</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ベイ</onReading>
+<onReading>マイ</onReading>
+<onReading>メエトル</onReading>
+<kunReading>こめ</kunReading>
+<kunReading>よね</kunReading>
+<meaning>rice</meaning>
+<meaning>USA</meaning>
+<meaning>metre</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>紙</glyph>
+<index>186</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シ</onReading>
+<kunReading>かみ</kunReading>
+<meaning>paper</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>組</glyph>
+<index>187</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ソ</onReading>
+<kunReading>く</kunReading>
+<kunReading>くみ</kunReading>
+<kunReading>ぐみ</kunReading>
+<meaning>association</meaning>
+<meaning>braid</meaning>
+<meaning>plait</meaning>
+<meaning>construct</meaning>
+<meaning>assemble</meaning>
+<meaning>unite</meaning>
+<meaning>cooperate</meaning>
+<meaning>grapple</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>細</glyph>
+<index>188</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>サイ</onReading>
+<kunReading>こま</kunReading>
+<kunReading>ほそ</kunReading>
+<meaning>dainty</meaning>
+<meaning>get thin</meaning>
+<meaning>taper</meaning>
+<meaning>slender</meaning>
+<meaning>narrow</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>絵</glyph>
+<index>189</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>エ</onReading>
+<onReading>カイ</onReading>
+<meaning>picture</meaning>
+<meaning>drawing</meaning>
+<meaning>painting</meaning>
+<meaning>sketch</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>線</glyph>
+<index>190</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>セン</onReading>
+<kunReading>すじ</kunReading>
+<meaning>line</meaning>
+<meaning>track</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>買</glyph>
+<index>191</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>バイ</onReading>
+<kunReading>か</kunReading>
+<meaning>buy</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>羽</glyph>
+<index>192</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ウ</onReading>
+<kunReading>は</kunReading>
+<kunReading>はね</kunReading>
+<kunReading>わ</kunReading>
+<meaning>feathers</meaning>
+<meaning>counter for birds, rabbits</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>考</glyph>
+<index>193</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>コウ</onReading>
+<kunReading>かんが</kunReading>
+<meaning>consider</meaning>
+<meaning>think over</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>書</glyph>
+<index>194</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ショ</onReading>
+<kunReading>か</kunReading>
+<kunReading>が</kunReading>
+<kunReading>がき</kunReading>
+<meaning>write</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>肉</glyph>
+<index>195</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ニク</onReading>
+<kunReading>しし</kunReading>
+<meaning>meat</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>朝</glyph>
+<index>196</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>チョウ</onReading>
+<kunReading>あさ</kunReading>
+<meaning>morning</meaning>
+<meaning>dynasty</meaning>
+<meaning>regime</meaning>
+<meaning>epoch</meaning>
+<meaning>period</meaning>
+<meaning>(North) Korea</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>自</glyph>
+<index>197</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シ</onReading>
+<onReading>ジ</onReading>
+<kunReading>おの</kunReading>
+<kunReading>みずか</kunReading>
+<meaning>oneself</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>船</glyph>
+<index>198</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>セン</onReading>
+<kunReading>ふな</kunReading>
+<kunReading>ふね</kunReading>
+<meaning>ship</meaning>
+<meaning>boat</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>色</glyph>
+<index>199</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シキ</onReading>
+<onReading>ショク</onReading>
+<kunReading>いろ</kunReading>
+<meaning>color</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>茶</glyph>
+<index>200</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>サ</onReading>
+<onReading>チャ</onReading>
+<meaning>tea</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>行</glyph>
+<index>201</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>アン</onReading>
+<onReading>ギョウ</onReading>
+<onReading>コウ</onReading>
+<kunReading>い</kunReading>
+<kunReading>いき</kunReading>
+<kunReading>おこ</kunReading>
+<kunReading>おこな</kunReading>
+<kunReading>ゆ</kunReading>
+<kunReading>ゆき</kunReading>
+<meaning>going</meaning>
+<meaning>journey</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>西</glyph>
+<index>202</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>サイ</onReading>
+<onReading>ス</onReading>
+<onReading>セイ</onReading>
+<kunReading>にし</kunReading>
+<meaning>west</meaning>
+<meaning>Spain</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>親</glyph>
+<index>203</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シン</onReading>
+<kunReading>おや</kunReading>
+<kunReading>した</kunReading>
+<meaning>parent</meaning>
+<meaning>intimacy</meaning>
+<meaning>relative</meaning>
+<meaning>familiarity</meaning>
+<meaning>dealer (cards)</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>角</glyph>
+<index>204</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>カク</onReading>
+<kunReading>かど</kunReading>
+<kunReading>つの</kunReading>
+<meaning>angle</meaning>
+<meaning>corner</meaning>
+<meaning>square</meaning>
+<meaning>horn</meaning>
+<meaning>antlers</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>言</glyph>
+<index>205</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ゲン</onReading>
+<onReading>ゴン</onReading>
+<kunReading>い</kunReading>
+<kunReading>こと</kunReading>
+<meaning>say</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>計</glyph>
+<index>206</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ケイ</onReading>
+<kunReading>はか</kunReading>
+<meaning>plot</meaning>
+<meaning>plan</meaning>
+<meaning>scheme</meaning>
+<meaning>measure</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>記</glyph>
+<index>207</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>キ</onReading>
+<kunReading>しる</kunReading>
+<meaning>scribe</meaning>
+<meaning>account</meaning>
+<meaning>narrative</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>話</glyph>
+<index>208</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ワ</onReading>
+<kunReading>はな</kunReading>
+<kunReading>はなし</kunReading>
+<meaning>tale</meaning>
+<meaning>talk</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>語</glyph>
+<index>209</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ゴ</onReading>
+<kunReading>かた</kunReading>
+<meaning>word</meaning>
+<meaning>speech</meaning>
+<meaning>language</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>読</glyph>
+<index>210</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>トウ</onReading>
+<onReading>トク</onReading>
+<onReading>ドク</onReading>
+<kunReading>よ</kunReading>
+<meaning>read</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>谷</glyph>
+<index>211</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>コク</onReading>
+<kunReading>きわ</kunReading>
+<kunReading>たに</kunReading>
+<meaning>valley</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>頭</glyph>
+<index>212</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ズ</onReading>
+<onReading>ト</onReading>
+<onReading>トウ</onReading>
+<kunReading>あたま</kunReading>
+<kunReading>かしら</kunReading>
+<kunReading>かぶり</kunReading>
+<kunReading>がしら</kunReading>
+<meaning>head</meaning>
+<meaning>counter for large animals</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>走</glyph>
+<index>213</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ソウ</onReading>
+<kunReading>はし</kunReading>
+<meaning>run</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>近</glyph>
+<index>214</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>キン</onReading>
+<onReading>コン</onReading>
+<kunReading>ちか</kunReading>
+<meaning>near</meaning>
+<meaning>early</meaning>
+<meaning>akin</meaning>
+<meaning>tantamount</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>通</glyph>
+<index>215</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ツ</onReading>
+<onReading>ツウ</onReading>
+<kunReading>かよ</kunReading>
+<kunReading>とお</kunReading>
+<kunReading>どお</kunReading>
+<meaning>traffic</meaning>
+<meaning>pass through</meaning>
+<meaning>avenue</meaning>
+<meaning>commute</meaning>
+<meaning>counter for letters, notes, documents, etc.</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>週</glyph>
+<index>216</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シュウ</onReading>
+<meaning>week</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>道</glyph>
+<index>217</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>トウ</onReading>
+<onReading>ドウ</onReading>
+<kunReading>みち</kunReading>
+<meaning>road-way</meaning>
+<meaning>street</meaning>
+<meaning>district</meaning>
+<meaning>journey</meaning>
+<meaning>course</meaning>
+<meaning>moral</meaning>
+<meaning>teachings</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>遠</glyph>
+<index>218</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>エン</onReading>
+<onReading>オン</onReading>
+<kunReading>とお</kunReading>
+<meaning>distant</meaning>
+<meaning>far</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>番</glyph>
+<index>219</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>バン</onReading>
+<kunReading>つが</kunReading>
+<meaning>turn</meaning>
+<meaning>number in a series</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>里</glyph>
+<index>220</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>リ</onReading>
+<kunReading>さと</kunReading>
+<meaning>ri</meaning>
+<meaning>village</meaning>
+<meaning>parent's home</meaning>
+<meaning>league</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>野</glyph>
+<index>221</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ショ</onReading>
+<onReading>ヤ</onReading>
+<kunReading>の</kunReading>
+<meaning>plains</meaning>
+<meaning>field</meaning>
+<meaning>rustic</meaning>
+<meaning>civilian life</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>長</glyph>
+<index>222</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>チョウ</onReading>
+<kunReading>おさ</kunReading>
+<kunReading>なが</kunReading>
+<meaning>long</meaning>
+<meaning>leader</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>門</glyph>
+<index>223</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>モン</onReading>
+<kunReading>かど</kunReading>
+<kunReading>と</kunReading>
+<meaning>gate</meaning>
+<meaning>counter for cannons</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>間</glyph>
+<index>224</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>カン</onReading>
+<onReading>ケン</onReading>
+<kunReading>あい</kunReading>
+<kunReading>あいだ</kunReading>
+<kunReading>ま</kunReading>
+<meaning>interval</meaning>
+<meaning>space</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>聞</glyph>
+<index>225</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ブン</onReading>
+<onReading>モン</onReading>
+<kunReading>き</kunReading>
+<meaning>hear</meaning>
+<meaning>ask</meaning>
+<meaning>listen</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>雪</glyph>
+<index>226</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>セツ</onReading>
+<kunReading>ゆき</kunReading>
+<meaning>snow</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>雲</glyph>
+<index>227</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ウン</onReading>
+<kunReading>くも</kunReading>
+<kunReading>ぐも</kunReading>
+<meaning>cloud</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>電</glyph>
+<index>228</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>デン</onReading>
+<meaning>electricity</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>顔</glyph>
+<index>229</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ガン</onReading>
+<kunReading>かお</kunReading>
+<meaning>face</meaning>
+<meaning>expression</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>風</glyph>
+<index>230</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>フ</onReading>
+<onReading>フウ</onReading>
+<kunReading>かざ</kunReading>
+<kunReading>かぜ</kunReading>
+<meaning>wind</meaning>
+<meaning>air</meaning>
+<meaning>style</meaning>
+<meaning>manner</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>食</glyph>
+<index>231</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ショク</onReading>
+<onReading>ジキ</onReading>
+<kunReading>く</kunReading>
+<kunReading>た</kunReading>
+<kunReading>は</kunReading>
+<meaning>eat</meaning>
+<meaning>food</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>首</glyph>
+<index>232</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>シュ</onReading>
+<kunReading>くび</kunReading>
+<meaning>neck</meaning>
+<meaning>counter for songs and poems</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>馬</glyph>
+<index>233</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>バ</onReading>
+<kunReading>うま</kunReading>
+<kunReading>ま</kunReading>
+<meaning>horse</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>高</glyph>
+<index>234</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>コウ</onReading>
+<kunReading>たか</kunReading>
+<kunReading>だか</kunReading>
+<meaning>tall</meaning>
+<meaning>high</meaning>
+<meaning>expensive</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>魚</glyph>
+<index>235</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>ギョ</onReading>
+<kunReading>うお</kunReading>
+<kunReading>さかな</kunReading>
+<kunReading>ざかな</kunReading>
+<meaning>fish</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>鳥</glyph>
+<index>236</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>チョウ</onReading>
+<kunReading>とり</kunReading>
+<meaning>bird</meaning>
+<meaning>chicken</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>麦</glyph>
+<index>237</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>バク</onReading>
+<kunReading>むぎ</kunReading>
+<meaning>barley</meaning>
+<meaning>wheat</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>黄</glyph>
+<index>238</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>オウ</onReading>
+<onReading>コウ</onReading>
+<kunReading>き</kunReading>
+<kunReading>こ</kunReading>
+<meaning>yellow</meaning>
+</glyphStat>
+<glyphStat>
+<glyph>黒</glyph>
+<index>239</index>
+<grade>2</grade>
+<onGrade>0</onGrade>
+<kunGrade>0</kunGrade>
+<meaningGrade>0</meaningGrade>
+<lastOnAnswer>1 01 01 00 00</lastOnAnswer>
+<lastKunAnswer>1 01 01 00 00</lastKunAnswer>
+<lastMeaningAnswer>1 01 01 00 00</lastMeaningAnswer>
+<onReading>コク</onReading>
+<kunReading>くろ</kunReading>
+<meaning>black</meaning>
+</glyphStat>
+</GlyphStats>
+</KanjiQuizConfig>

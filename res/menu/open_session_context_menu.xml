@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_rename_session"          
+          android:title="@string/menu_rename_session"
+          android:icon="@drawable/ic_menu_barcode" 
+          />
+          
+    <item android:id="@+id/menu_delete_session"          
+          android:title="@string/menu_delete_session"
+          android:icon="@drawable/ic_menu_sad"  
+          />
+</menu>

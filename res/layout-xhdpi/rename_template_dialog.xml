@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"    
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal"    
+    android:layout_width="250dip"
+    
+    >
+    
+     <TextView
+        android:id="@+id/rename_template_old_name_label"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="REPLACE ME"
+        android:layout_marginBottom="20dip"        
+        />
+    
+    <TextView
+        android:id="@+id/rename_template_label"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rename_template_type_here_label"
+        android:layout_below="@id/rename_template_old_name_label"
+        />
+        
+    <EditText
+        android:id="@+id/rename_template_entry"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/editbox_background"
+        android:layout_below="@id/rename_template_label"/>           
+        
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:orientation="horizontal"    
+    	android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+    	android:gravity="center_horizontal"    
+    	>        
+        
+	     <Button
+	        android:id="@+id/rename_template_ok"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@id/rename_template_entry"        
+	        android:layout_marginLeft="10dip"
+	        android:text="@string/OK" />
+	        
+	    <Button
+	    	android:id="@+id/rename_template_cancel"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_toRightOf="@id/rename_template_ok"
+	        android:layout_alignTop="@id/rename_template_ok"
+	        android:layout_alignParentRight="true"
+	        android:text="@string/Cancel" />
+	</LinearLayout>        
+    
+</LinearLayout>

@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="global_preferences_title">préférences globales</string>
+	<string name="session_preferences_title">les préférences de session</string>
+	<string name="first_run_title">première fois?</string>
+	<string name="first_run_info">un petit rappel .. l\'aide est disponible dans les menus:)</string>
+	<string name="warn_on_small_display_title">Afficher un avertissement</string>
+	<string name="warn_on_small_display_info">cerveau learnin «kanji est le mieux utilisé sur les écrans avec une hauteur d\'au moins 800 pixels (comme WVGA). votre expérience peut être un peu moins heureux: (.</string>
+	<string name="OK">ok</string>
+	<string name="Cancel">annuler</string>
+	<string name="err_title">erreur</string>
+	<string name="success">succès</string>
+	<string name="location">emplacement</string>
+	<string name="hello">Bienvenue à learnin des cerveaux »</string>
+	<string name="app_name">learnin cerveau kanji &quot;</string>
+	<string name="button_kanji_front_door_text">kanji</string>
+	<string name="button_vocabulary_front_door_text">vocabulaire</string>
+	<string name="kanji_front_door_title">learnin cerveau «porte d\'entrée kanji</string>
+	<string name="front_door_no_last_title">pas de séances</string>
+	<string name="front_door_no_last_message">pas de séances ont été encore commencé. sélectionnez\"nouvelle session\".</string>
+	<string name="menu_sync">synchronisation avec Google</string>
+	<string name="menu_about">sur</string>
+	<string name="menu_help">aider</string>
+	<string name="menu_session_preferences">les préférences de session</string>
+	<string name="menu_grading_stats">classement stats</string>
+	<string name="menu_num_leitners">num attente d\'infos</string>
+	<string name="button_front_door_text_new_session">nouvelle session</string>
+	<string name="button_front_door_text_open_session">session ouverte</string>
+	<string name="button_front_door_text_last_session">dernière session</string>
+	<string name="button_front_door_text_about">sur</string>
+	<string name="no_sessions_to_open">pas de séances d\'ouvrir</string>
+	<string name="new_session_title">nouvelle session</string>
+	<string name="textview_empty_new_session_import">pas d\'articles à choisir parmi: (</string>
+	<string name="button_new_session_import">l\'importation de nouvelles</string>
+	<string name="button_new_session_open_selected">ouverte sélectionnés</string>
+	<string name="delete_template_missing">modèle sélectionné ne peut pas être supprimé</string>
+	<string name="delete_template_conf_title">Supprimer le modèle?</string>
+	<string name="delete_template_confirm">Etes-vous sûr de vouloir supprimer modèle:</string>
+	<string name="import_template_title">modèle d\'importation de nouvelles</string>
+	<string name="no_path">Aucun fichier sélectionné</string>
+	<string name="button_import_template_browse">accédez au fichier</string>
+	<string name="button_import_template_import">d\'importation sélectionné</string>
+	<string name="button_import_template_export_sample">échantillon à l\'exportation</string>
+	<string name="import_template_no_file">Aucun fichier sélectionné</string>
+	<string name="import_template_template_err">modèle de l\'ouverture d\'erreur</string>
+	<string name="import_template_template_no_title">pas TemplateName en xml modèle</string>
+	<string name="import_template_manifest_open_err">n\'a pas pu ouvrir manifeste utilisateur!</string>
+	<string name="import_template_manifest_duplicate_err">nous avons déjà un modèle portant le même nom!</string>
+	<string name="import_sample_template_template_err">ne pouvait pas importer le modèle pour une raison: (</string>
+	<string name="import_sample_template_manifest_write_err">il y avait une erreur catastrophique écrit le manifeste de l\'utilisateur!</string>
+	<string name="menu_rename_template">modèle de renommer</string>
+	<string name="menu_delete_template">Supprimer le modèle</string>
+	<string name="rename_template_duplicate_err">il ya déjà un modèle portant le même nom</string>
+	<string name="rename_template_cant_rename">Impossible de renommer le modèle sélectionné</string>
+	<string name="name_new_session_label">Entrez le nom de la nouvelle session</string>
+	<string name="load_template_browser_title">fichier de modèle de sélection pour l\'importation</string>
+	<string name="load_template_browser_dir_err">Impossible d\'ouvrir le dossier</string>
+	<string name="select_directory_browser_title">Sélectionnez le répertoire</string>
+	<string name="button_select_directory_select">Sélectionnez le répertoire</string>
+	<string name="button_select_directory_cancel">annuler</string>
+	<string name="export_sample_template_template_err">Erreur exportateurs exemple de modèle</string>
+	<string name="export_sample_template_template_success">succès écrit par exemple de modèle</string>
+	<string name="rename_template_type_here_label">entrez le nom nouveau modèle:</string>
+	<string name="rename_session_type_here_label">Entrez le nom de la nouvelle session:</string>
+	<string name="open_session_title">session ouverte</string>
+	<string name="menu_rename_session">session renommer</string>
+	<string name="menu_delete_session">supprimer session</string>
+	<string name="delete_session_conf_title">supprimer session?</string>
+	<string name="delete_session_confirm">Etes-vous sûr de vouloir supprimer la session:</string>
+	<string name="delete_session_err_title">erreur fatale!</string>
+	<string name="delete_session_err">erreur fatale essayez de supprimer session .. très, très mauvaise super.</string>
+	<string name="delete_session_file_err_title">erreur fatale!</string>
+	<string name="delete_session_file_err">erreur fatale essayez de supprimer le fichier de session .. super mauvaise.</string>
+	<string name="session_opened_title">Session ouverte</string>
+	<string name="session_opened_flashcard_button">flashcard</string>
+	<string name="session_opened_on_button">オン</string>
+	<string name="session_opened_kun_button">くん</string>
+	<string name="session_opened_onkun_button">オン &amp; くん</string>
+	<string name="session_opened_meanings_button">significations</string>
+	<string name="session_opened_grading_check">permettre le classement</string>
+	<string name="session_opened_quick_quiz_check">petit questionnaire</string>
+	<string name="session_opened_wait_message">ouverture quiz .. patientez s\'il vous plaît ..</string>
+	<string name="import_quiz_err_title">erreur d\'importation quiz</string>
+	<string name="import_quiz_err_message">une erreur fatale s\'est produite lors de l\'importation session quiz!</string>
+	<string name="select_kanji_title_base">sélectionnez kanji pour</string>
+	<string name="select_kanji_title_flashcard">flashcard ensemble</string>
+	<string name="select_kanji_title_test">ensemble de test</string>
+	<string name="select_kanji_prev_button">actu</string>
+	<string name="select_kanji_next_button">prochaine</string>
+	<string name="select_kanji_clear_button">effacer toutes les</string>
+	<string name="select_kanji_all_button">sélectionner tous les</string>
+	<string name="menu_edit_kanji">modifier kanji</string>
+	<string name="menu_edit_selected_kanji">modifier certains kanji</string>
+	<string name="menu_add_kanji">ajouter de nouveaux kanji</string>
+	<string name="menu_delete_selected_kanji">supprimer certains kanji</string>
+	<string name="delete_glyph_confirm">effectivement supprimer glyphe:</string>
+	<string name="selectEditKanji">sélectionnez kanji pour modifier</string>
+	<string name="selectEditKanji_correct_title">liste des kanji répondu correctement</string>
+	<string name="edit_kanji_edit_button">modifier kanji</string>
+	<string name="editKanjiTitle">modifier kanji</string>
+	<string name="editNewKanjiTitle">modifier nouveaux kanji</string>
+	<string name="button_edit_kanji_update">mise à jour kanji</string>
+	<string name="button_edit_kanji_add">ajouter kanji</string>
+	<string name="edit_kanji_kanji_title">kanji:</string>
+	<string name="edit_kanji_on_title">オン lectures:</string>
+	<string name="edit_kanji_kun_title">くん lectures:</string>
+	<string name="edit_kanji_meanings_title">significations:</string>
+	<string name="editLeitnerTitle">modifier Leitner niveaux</string>
+	<string name="edit_leitner_append_button">ajouter</string>
+	<string name="edit_leitner_edit_button">modifier</string>
+	<string name="edit_leitner_delete_button">supprimer</string>
+	<string name="edit_leitner_label">modifier Leitner niveau:</string>
+	<string name="flashCardTitle">flashcards</string>
+	<string name="kanji_flash_next_button">prochaine kanji</string>
+	<string name="kanji_flash_flip_button">carte de flip</string>
+	<string name="mainQuizTitle">quiz</string>
+	<string name="main_quiz_fail_button">échec</string>
+	<string name="main_quiz_verity_button">vérifier</string>
+	<string name="main_quiz_cheat_button">pass</string>
+	<string name="main_quiz_on_text">オン</string>
+	<string name="main_quiz_kun_text">くん</string>
+	<string name="main_quiz_meanings_text">significations</string>
+	<string name="main_quiz_no_entries_title">pas d\'entrées dans l\'essai</string>
+	<string name="main_quiz_no_entries_message">pas d\'entrées dans l\'essai. ouvrir les préférences quiz et ajouter quelques entrées à l\'épreuve test ensemble.</string>
+	<string name="scoringTitle">quiz de notation</string>
+	<string name="button_show_grading_stats">montrent les statistiques de classement</string>
+	<string name="button_show_correct_kanji_answered">montrent répondu correctement kanji</string>
+	<string name="button_show_incorrect_kanji_answered">montrent une réponse incorrecte kanji</string>
+	<string name="label_num_due_questions_not_asked">certain nombre de questions en raison n\'a pas demandé:</string>
+	<string name="label_num_all_correct">nombre ont répondu correctement:</string>
+	<string name="label_num_first_answer_correct">nombre initialement répondu correctement:</string>
+	<string name="label_num_incorrect_answer">nombre répondu incorrectement à:</string>
+	<string name="grading_stats_title">classement stats</string>
+	<string name="incorrect_answer_list_title">répondu incorrectement à kanji</string>
+	<string name="incorrect_answer_mark_correct_button">bonne marque</string>
+	<string name="num_leitner_list_title">questions nombre en raison</string>
+	<string name="label_num_due_on_questions_test_list">num オン raison dans la liste de test:</string>
+	<string name="label_num_due_kun_questions_test_list">num raison くん dans la liste de test:</string>
+	<string name="label_num_due_meanings_questions_test_list">num sens en raison de la liste de test:</string>
+	<string name="label_num_due_on_questions_test_list_tomorrow">num オン raison dans la liste de test de demain:</string>
+	<string name="label_num_due_kun_questions_test_list_tomorrow">num raison くん dans la liste de test de demain:</string>
+	<string name="label_num_due_meanings_questions_test_list_tomorrow">num sens en raison de liste de tests de demain:</string>
+	<string name="label_num_due_on_questions_all_list">num オン en raison de la liste complète:</string>
+	<string name="label_num_due_kun_questions_all_list">num raison くん dans la liste complète:</string>
+	<string name="label_num_due_meanings_questions_all_list">num sens en raison de la liste complète:</string>
+	<string name="pref_onKunTextSize_title">おん / taille du texte くん</string>
+	<string name="pref_onKunTextSize_summary">la taille du texte pour la lecture おん くん /</string>
+	<string name="pref_meaningsTextSize_title">la taille du texte significations</string>
+	<string name="pref_meaningsTextSize_summary">la taille du texte anglais pour des lectures</string>
+	<string name="pref_maxEntriesPerSession_title">entrées maximum par session</string>
+	<string name="pref_maxEntriesPerSession_summary">nombre maximum d\'entrées dans une session quiz</string>
+	<string name="pref_minQuestionLocality_title">localité question min</string>
+	<string name="pref_minQuestionLocality_summary">si possible, répondre à cette série de questions avant de répéter</string>
+	<string name="pref_maxQuestionLocality_title">localité question max</string>
+	<string name="pref_maxQuestionLocality_summary">si possible, répondre à la plupart à ce nombre de questions avant de répéter</string>
+	<string name="pref_numTimesToRepeatCorrectUntilAccepted_title">num fois pour répéter</string>
+	<string name="pref_numTimesToRepeatCorrectUntilAccepted_summary">répondre correctement aux questions de nombreuses fois avant de l\'accepter</string>
+	<string name="pref_doRealLeitner_title">chute de tous les niveaux</string>
+	<string name="pref_doRealLeitner_summary">lorsque la question est mal répondu, revient à son niveau 0 (ou tout simplement d\'un niveau si faux)</string>
+	<string name="pref_showWordCycle_title">nombre de cycles montrent mot</string>
+	<string name="pref_showWordCycle_summary">afficher ou masquer le nombre de cycles mot pendant quiz</string>
+	<string name="pref_resetCorrectCountOnWrongAnswer_title">réinitialiser un décompte exact des</string>
+	<string name="pref_resetCorrectCountOnWrongAnswer_summary">si le nombre de réponse correcte être remis à zéro sur la réponse incorrecte (ou décrémenté par un, en fonction de déposer tous les niveaux)</string>
+	<string name="pref_doRandomFlashcardMode_title">mode aléatoire flashcard</string>
+	<string name="pref_doRandomFlashcardMode_summary">si elle est vraie, mode flashcard se déroulera dans un ordre aléatoire. sinon ce sera séquentiel.</string>
+	<string name="pref_testKanji_title">test kanji</string>
+	<string name="pref_testKanji_summary">sélectionnez kanji pour le test mis en</string>
+	<string name="pref_flashcardKanji_title">flashcard kanji</string>
+	<string name="pref_flashcardKanji_summary">sélectionnez kanji pour flashcard ensemble d\'apprentissage</string>
+	<string name="pref_editKanji_title">modifier kanji</string>
+	<string name="pref_editKanji_summary">modifier kanji en session</string>
+	<string name="pref_levels_title">ajuster les niveaux</string>
+	<string name="pref_levels_summary">ajuster délais d\'attente de classement Leitner</string>
+	<string name="open_session_no_sessions_err">pas de sessions disponibles pour l\'ouvrir. utiliser le\"nouvelle session\"bouton de la première vue d\'ajouter une séance.</string>
+	<string name="help_title_base">learnin des cerveaux »d\'aide:</string>
+	<string name="about_title">sur learnin des cerveaux »</string>
+	<string name="select_kanji_base_title">sélectionnez kanji pour le test / flashcard ensemble</string>
+	
+	
+	
+	<string name="about_text">
+		&lt;h1&gt;&lt;u&gt;Brain Learnin\': Kanji&lt;/u&gt;&lt;/h1&gt;&lt;p/&gt;Il Ain \'t learnin \' ain si elle n \'Brain Learnin \'!&lt;p/&gt;&lt;p/&gt;&lt;p/&gt;								
+		      Rédigé par Chris Mennie (&lt;a href=\"mailto:chris@chrismennie.ca\"&gt;chris@chrismennie.ca&lt;/a&gt; ou &lt;a href=\"mailto:cmennie@rogers.com\"&gt;cmennie@rogers.com&lt;/a&gt;)&lt;p/&gt;
+		      &lt;br/&gt;
+		      &lt;br/&gt;
+		      &lt;h2&gt;Remerciements:&lt;/h2&gt;&lt;p/&gt;
+		      
+		      Contexte: &lt;a href="http://www.flickr.com/photos/calebkimbrough/sets/72157623212295309/detail/"&gt;http://www.flickr.com/photos/calebkimbrough/sets/72157623212295309/detail&lt;/a&gt;&lt;p/&gt;
+		      Icône du cerveau: &lt;a href="http://hartwigenglish303.wikispaces.com/Eng+ILA+Sem.+2/"&gt;http://hartwigenglish303.wikispaces.com/Eng+ILA+Sem.+2&lt;/a&gt;&lt;p/&gt;
+		      Icônes: &lt;a href="http://www.androidicons.com/freebies.php"&gt;http://www.androidicons.com/freebies.php&lt;/a&gt;&lt;p/&gt;
+		      Exemple de données kanji: &lt;a href="http://www.csse.monash.edu.au/~jwb/kanjidic2"&gt;http://www.csse.monash.edu.au/~jwb/kanjidic2&lt;/a&gt;&lt;p/&gt;								
+		      &lt;br/&gt;
+		      &lt;br/&gt;
+		      
+		      &lt;h2&gt;Licence:&lt;/h2&gt;&lt;p/&gt;
+		      &lt;p/&gt;
+		      Brain Learnin \'Kanji - Un outil d\'apprentissage kanji pour la plateforme Android
+Copyright (C) 2011 Chris A. Mennie								
+		      &lt;p/&gt;
+		  Brain Learnin \'Kanji est un logiciel libre: vous pouvez le redistribuer et / ou modifier
+selon les termes de la Licence Publique Générale GNU telle que publiée par
+la Free Software Foundation, soit la version 3 de la licence, ou
+(à votre choix) toute version ultérieure.
+		      &lt;p/&gt;
+		  Brain Learnin \'Kanji est distribué dans l\'espoir qu\'il sera utile,
+mais SANS AUCUNE GARANTIE, sans même la garantie implicite de
+COMMERCIALISATION ou D\'ADAPTATION À UN USAGE PARTICULIER. Voir l\'
+GNU General Public License pour plus de détails.
+		      &lt;p/&gt;
+		  Vous devriez avoir reçu une copie de la Licence Publique Générale GNU
+avec Brain Learnin \'Kanji. Sinon, voir &lt;a href="http://www.gnu.org/licenses/"&gt;http://www.gnu.org/licenses/&lt;/a&gt;.								
+	</string>
+	
+	<string name="front_door_help_text">
+		Bienvenue à Learnin Brain \'Kanji!
+		&lt;p/&gt;
+		
+		Si c\'est votre première fois que vous exécutant \'ll veux choisir le "New Session" bouton.
+		&lt;p/&gt;
+		
+		Le \"New Session \" bouton vous permet de sélectionner une liste de kanji importés et commencer quiz avec elle.
+		
+		&lt;p/&gt;
+		Le \"Open Sesson \" bouton présente une liste des jeux de kanji précédemment importé pour sélectionner et travailler. Souvent, vous \'ll fonctionnent uniquement à partir d\'une seule session à la fois,
+mais nous avons ici à Brain Learnin \'veux être aussi souple que possible.
+		
+		&lt;p/&gt;
+		Le \"dernière session \" bouton pour ouvrir la dernière session vous avez travaillé à partir sans avoir à le sélectionner dans l\'ensemble des kanjis importés. Une fois que vous \'ai commencé
+de travail grâce à un ensemble kanji, c\'est probablement ce que vous \'ll toujours choisir d\'abord.
+		
+		&lt;p/&gt;
+		Le \"A propos de \" bouton vous indique quelques informations de base sur l\'application.
+		
+		&lt;p/&gt;
+		Nous pouvons également modifier les préférences globales dans le menu. Ces préférences sont héritées lors de nouvelles sessions sont créées.
+	</string>
+	
+	<string name="new_session_help_text">
+		Le \"New Session \" vue vous permet de sélectionner un produit importé kanji ensemble pour commencer à travailler avec. Avec un certain nombre de haut-kanji ensembles, nous énumérons ici toute
+définit l\'utilisateur a déjà importé.
+		&lt;p/&gt;
+		
+		Pour être travailler avec un modèle, sélectionnez-le dans la liste, et appuyez sur le bouton \"Open selected \".
+
+		&lt;p/&gt;
+		
+		Si vous avez un nouveau modèle à importer puis sélectionnez le \"Importer New \" bouton.
+		&lt;p/&gt;
+		
+		En plus d\'ouvrir et d\'importer kanji ensembles, nous pouvons également (pour les ensembles d\'utilisateurs) les renommer et les supprimer. Il suffit d\'appuyer longtemps sur un élément dans la liste ou de la pop
+le menu et choisissez «Renommer Template \"ou \"Supprimer le modèle \".
+	</string>
+	
+	<string name="import_template_help_text">
+		Le \"Importer un nouveau modèle \"vous permet d\'ajouter nouveau modèle établit kanji. Ces ensembles importés deviendront alors disponibles dans la liste sur le \"New Session \" point de vue.
+		&lt;p/&gt;
+		
+		Choisir \"Parcourir un fichier \" vous amène à un navigateur de fichiers. Recherchez et sélectionnez le fichier XML à importer.
+		&lt;p/&gt;
+		
+		Une fois qu\'un fichier a été sélectionné, en utilisant le \"Importer les éléments sélectionnés \" bouton, en cas de succès, l\'importation du fichier donné et l\'ajouter à la liste des jeux disponibles kanji.
+		&lt;p/&gt;
+		
+		Pour l\'aide au développement personnalisé kanji ensembles, nous pouvons exporter un fichier petit échantillon de la carte SD (ou ailleurs) avec le \"Exporter exemples \" bouton. Utilisez-le pour un grand bien.
+	</string>
+	
+	<string name="select_directory_browser_help_text">
+		Nous sont présentés avec un navigateur simple répertoire. Accédez au répertoire dans lequel vous souhaitez exporter l\'échantillon kanji ensemble.
+		&lt;p/&gt;
+		
+		Une fois le répertoire cible est sélectionnée, appuyez sur la touche \"Sélectionner un répertoire \"pour écrire le xml de l\'échantillon.
+		&lt;p/&gt;
+		
+		Si vous changez d\'avis, le \"Annuler \" bouton vous permettra de revenir à la vue précédente.
+	</string>
+	
+	<string name="open_session_help_text">
+		Voici une liste de toutes les sessions créées par la \"New Session \" point de vue. Pour continuer à travailler sur une session en particulier, sélectionnez dans la liste et appuyez sur la touche
+\"Open selected \" bouton.
+		&lt;p/&gt;
+		
+		Par souci de commodité, vous pouvez utiliser le \"dernière session \" de la vue initiale rapidement continuer la dernière session ouverte.
+
+		&lt;p/&gt;
+		
+		En plus de l\'ouverture d\'une session, on peut aussi renommer et les supprimer. Il suffit d\'appuyer longtemps sur un élément dans la liste ou faire apparaître le menu et choisissez «Renommer session \"ou \"session Supprimer \".
+	</string>
+	
+	<string name="grading_stats_help_text">
+		Nous avons ici une liste de tous les kanji dans la session, a présenté 20 à la fois. Chaque ligne de la liste affiche les kanji sur la gauche et de trois chiffres sur la droite.
+Ces trois nombres représentent le grade de Leitner le kanji pour オン, くん, et les réponses significations, respectivement.
+		&lt;p/&gt;
+		
+		Pour naviguer en avant ou en arrière de 20 kanji, utiliser le \"Précédent \"et \"suivant \" boutons.
+	</string>
+	
+	<string name="num_leitner_list_help_text">
+		Cette vue fournit quelques informations sur le nombre de questions en raison en fonction de leurs grades respectifs Leitner.
+	</string>
+	
+	<string name="session_opened_help_text">
+		Une fois une session est ouverte, nous nous retrouvons dans ce point de vue.
+		&lt;p/&gt;
+		
+		Pour l\'étude en utilisant une interface de type Flashcard, sélectionnez le \"Flashcard \" bouton.
+		&lt;p/&gt;
+		
+		Les autres boutons commencent un jeu-questionnaire pour le type de questionnaire sélectionné. Une fois sur un bouton de type quiz est sélectionné, l\'application se déplace sur le point de vue quiz principal.
+		&lt;p/&gt;
+		
+		Le \"オン \" bouton pose des questions pour seulement オン lectures.
+		&lt;p/&gt;
+		
+		Le \"くん \" bouton pose des questions pour les lectures くん seulement.
+		&lt;p/&gt;
+		
+		Le \"オン &amp; くん \" bouton pose des questions pour les deux lectures オン et くん.
+		&lt;p/&gt;
+		
+		Le \"Signification \" bouton pose des questions pour la signification des kanji.
+		&lt;p/&gt;
+		
+		Vérification \"Activer classement \" permet l\'utilisation de classement Leitner durant le quiz principal.
+		&lt;p/&gt;
+		
+		Vérification \"Quick Quiz \" crée un quiz de 20 entrées, demande à chaque question une seule fois et n \'utilisation t de minerai titrant Leitner. 
+	</string>
+	
+	<string name="flashCard_help_text">
+		Le point de vue flashcard a deux côtés. Le premier affiche le courant kanji, et les listes de la deuxième lecture et le sens pour lui.
+		&lt;p/&gt;
+		
+		Pour basculer entre les deux parties, l\'utilisation de la \"Flip Card \" bouton.
+		&lt;p/&gt;
+		
+		Pour passer à la prochaine kanji, sélectionnez le \"Suivant Kanji \" bouton.
+		&lt;p/&gt;
+		
+		Pour modifier les kanji dans le jeu de carte flash, vous devez les modifier dans les préférences de session de la vue précédente (via le menu).
+	</string>
+	
+	<string name="mainQuiz_help_text">
+		C\'est le cœur de l\'application entière. Le quiz.
+		&lt;p/&gt;
+		
+		En haut de l\'écran, nous avons une barre de progression représentant le nombre de questions terminée. Immédiatement au-dessous que nous avons sur la gauche, un
+contre nous dire le nombre de fois que nous \'ai répondu correctement à la question actuelle. Pour le droit de que nous avons un compteur du nombre
+des questions terminée.
+		&lt;p/&gt;
+		
+		Ci-dessous qui sera soit \"オン \", \"くん \" ou \"Signification \" s\'affiche sur un fond légèrement coloré. Ceci indique le type de
+question qui est posée (et est vraiment de sens que si les deux questions quiz オン et くん en même temps).
+		&lt;p/&gt;
+		
+		Sous que nous avons le courant kanji en question et une zone de saisie ci-dessous dans lequel l\'apport de nos réponses. La réponse est entrée sera vérifié
+si enter / return on appuie sur le clavier ou si le \"Vérifier \" bouton est sélectionné.
+		&lt;p/&gt;
+		
+		Pour passer à la question actuelle, nous pouvons utiliser le \"Fail \" ou \"Pass \"pour simuler une réponse incorrecte ou de corriger, respectivement.
+		&lt;p/&gt;
+		
+		Après chaque question, la réponse sera montré soit avec un fond rouge ou vert pour indiquer si la réponse était incorrecte ou de corriger, respectivement.
+		&lt;p/&gt;  
+		
+		Pour modifier les kanji dans l\'ensemble de test, vous devez les modifier dans les préférences de session de l\'écran précédent (dans le menu).
+	</string>
+	
+	<string name="scoring_help_text">
+		Après avoir complété un questionnaire nous nous retrouvons ici pour quelques statistiques.
+		&lt;p/&gt; 
+		
+		Pour voir les statistiques de classement des kanjis quiz, utiliser le \"Voir la Statistique du classement des \" bouton.
+		&lt;p/&gt;
+		
+		Une liste des kanji qui ont répondu correctement on peut le voir en appuyant sur le \"Afficher répondu correctement à Kanji \" bouton.
+		&lt;p/&gt;
+		
+		Une liste des kanji qui n\'ont pas répondu correctement on peut le voir en appuyant sur le \"Afficher mauvaises réponses Kanji \" bouton. Nous pouvons également tricher sur le test et
+marque répondu incorrectement à kanji comme correcte par ce point de vue.
+	</string>
+	
+	<string name="incorrect_answer_list_help_text">
+		Nous avons ici une liste de kanji qui ont mal répondu au test précédent. À côté de chaque kanji est une lettre représentant le type de question pour
+cette entrée. "O \'La lettre \ signifie オン, \' K \'signifie くん, et \' M \'signifie significations. À l\'extrême droite de chaque ligne est l\'indice de kanji, ce qui est plutôt négligeable.
+		&lt;p/&gt;
+		
+		Si nous choisissons une entrée et appuyez sur la touche \"Mark Corriger \", le type de question sélectionné sera traitée comme si elle était à l\'origine entré correctement au cours de la
+quiz. T Don \'vous tricher. Toutefois, si une faute de frappe trouvé sa place dans la réponse, c\'est la façon d\'y remédier.
+		&lt;p/&gt;
+		
+		Les kanji sont répertoriés 20 à la fois. Utilisez le \"Précédent \"et \"suivant \" boutons pour afficher les 20 précédent ou suivant dans la liste globale.		 
+	</string>
+	
+	<string name="select_kanji_help_text">
+		Vous avez le pouvoir de décider ce kanji sont inclus dans les jeux et quiz flashcard. Voulez-vous quiz sur chacun d\'eux, ou seulement le petit nombre que vous n \'êtes actuellement
+d\'apprentissage? Nous divine ici. À l\'extrême droite de chaque ligne est l\'indice de kanji, ce qui est plutôt négligeable.
+		&lt;p/&gt;
+		
+		Sélectionnez le kanji que vous voulez être inclus dans la carte flash / quiz ensemble. Utilisez le \"Effacer tout \"et \"Sélectionner tout \"pour effacer toutes les sélections ou sélectionnez tous les kanjis,
+respectivement.
+		&lt;p/&gt; 
+		
+		Les kanji sont répertoriés 20 à la fois. Utilisez le \"Précédent \"et \"suivant \" boutons pour afficher les 20 précédent ou suivant dans la liste globale.
+	</string>
+	
+	<string name="selectEditKanji_help_text">
+		Cette vue vous permet de modifier les kanji dans la session.
+		&lt;p/&gt;
+		
+		Pour modifier un particulier kanji, sélectionnez-le dans la liste et appuyez sur la touche \"Modifier Kanji \" bouton ou utilisez la \"Edit Selected Kanji \"dans le menu. Sinon, vous pouvez appuyez longuement sur
+n\'importe quel élément dans la liste et choisissez «Modifier la sélection Kanji \" dans le menu contextuel.
+		&lt;p/&gt;
+		
+		De même, pour supprimer un kanji nous pouvons choisir et utiliser la presse \"Supprimer la sélection Kanji \" élément de menu ou à long terme un kanji et sélectionnez le même dans le menu contextuel.
+		&lt;p/&gt;
+		
+		Ajout d\'un nouveau kanji est également disponible via le menu de menu ou le contexte de la \"Ajouter un nouveau Kanji \" option.
+		&lt;p/&gt;
+		
+		Les kanji sont répertoriés 20 à la fois. Utilisez le \"Précédent \"et \"suivant \" boutons pour afficher les 20 précédent ou suivant dans la liste globale.		 		 			
+	</string>
+	
+	<string name="editLeitner_help_text">
+		Chaque kanji est attribué des notes pour son オン, くん, et les significations. Ces grades incrément lorsque répondu correctement et de se replier lorsqu\'ils ne sont pas. Pour chaque catégorie il ya de l \'un délai d\'attente
+période où l\'attribut kanji gagné \'t être interrogé à nouveau jusqu\'à expiration. Les délais d\'attente sont ce que nous \'re regarder ici.
+		&lt;p/&gt;
+		
+		Chaque ligne correspond à la durée d\'attente en jours (en ignorant le temps) sur la gauche et la classe correspondante sur la droite.
+		&lt;p/&gt;
+		
+		Pour modifier une note particulière, il suffit de le sélectionner et appuyez sur la touche \"Modifier \" bouton.
+		&lt;p/&gt;
+		
+		Suppression d\'un grade a consisté à choisir une ligne et en appuyant sur le \"Supprimer \" bouton.
+		&lt;p/&gt;
+		
+		Nous pouvons également ajouter une nouvelle catégorie en appuyant sur le \"Ajouter \" bouton. Ceci ajoutera un nouveau grade qui est 1,5 fois la durée de la dernière. 
+	</string>
+	
+	<string name="editKanji_help_text">
+		Cette vue vous permet d\'éditer les propriétés d\'un kanji.
+		&lt;p/&gt; 
+		
+		Utilisez le \"Mettre à jour Kanji \"pour commettre l\'un quelconque changement. Si vous utilisez le bouton précédent de l\'évolution gagné \'t être commis.
+	</string>
+	
+	<string name="global_preferences_help_text">
+		&lt;u&gt;Entrées max par session&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Le nombre maximum de questions à poser à un quiz, quel que soit le nombre d\'échéance. Mettez cela à quelque chose de très important si vous voulez toujours être
+demanda tout d\'échéance.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Localité Question Min&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Quand une question est posée à nouveau, nous \'ll essayer de ne pas la poser avant que le nombre d\'autres questions a été posée en premier.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Localité Question Max&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Quand une question est posée à nouveau, nous \'vais essayer de notre mieux pour le répéter dans ce nombre de questions.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Times Num Pour répéter&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Pour vous assurer de bien connaître la réponse et didn \'t un coup de chance sur, nous \' ll vous obliger à répondre correctement à chaque question (dans une rangée) présente de nombreux
+fois avant d\'accepter comme correct. Personnellement, nous recommandons trois, mais pour un jeu ennuyeux, vous pouvez lui attribuer une.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Drop tous les niveaux&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Quand une question est mal répondu, si cette option est cochée alors le nombre de cycles mot redescendre à zéro. Toutefois, si cette
+n\'est pas cochée, nous \'ll ne laisser tomber en arrière par un. Décochez t Don \'il .. vous n \'êtes-vous seulement la tricherie.		
+		&lt;p/&gt;
+		
+		&lt;u&gt;Décompte Cycle Show Word&lt;/u&gt;
+		&lt;p/&gt;
+				
+		Si elle est cochée, nous \'ll voir le nombre de fois que la question actuelle a été répondu correctement (sur le nombre de fois son supposé
+répétition). Cela peut être gênant et / ou de fournir des conseils, vous pouvez donc envisager de le désactiver.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Réinitialiser un décompte exact des&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Si cette case est cochée, le nombre de cycles mot sera modifié (basé sur la chute paramètre Tous Niveaux) après une réponse incorrecte.
+Si vous \'d préfèrent le nombre de cycle de mot pour ne pas être affectée par une mauvaise réponse, décochez cette. 
+		&lt;p/&gt;
+		
+		&lt;u&gt;Mode Flashcard au hasard&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Lorsque l\'on regarde flashcards, si cette option est cochée l\'ordre kanji sera aléatoire. Sinon, nous \'ll leur montrer dans un ordre séquentiel.
+	</string>
+	
+	<string name="session_preferences_help_text">
+		&lt;u&gt;Entrées max par session&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Le nombre maximum de questions à poser à un quiz, quel que soit le nombre d\'échéance. Mettez cela à quelque chose de très important si vous voulez toujours être
+demanda tout d\'échéance.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Localité Question Min&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Quand une question est posée à nouveau, nous \'ll essayer de ne pas la poser avant que le nombre d\'autres questions a été posée en premier.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Localité Question Max&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Quand une question est posée à nouveau, nous \'vais essayer de notre mieux pour le répéter dans ce nombre de questions.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Times Num Pour répéter&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Pour vous assurer de bien connaître la réponse et didn \'t un coup de chance sur, nous \' ll vous obliger à répondre correctement à chaque question (dans une rangée) présente de nombreux
+fois avant d\'accepter comme correct. Personnellement, nous recommandons trois, mais pour un jeu ennuyeux, vous pouvez lui attribuer une.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Drop tous les niveaux&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Quand une question est mal répondu, si cette option est cochée alors le nombre de cycles mot redescendre à zéro. Toutefois, si cette
+n\'est pas cochée, nous \'ll ne laisser tomber en arrière par un. Décochez t Don \'il .. vous n \'êtes-vous seulement la tricherie.		
+		&lt;p/&gt;
+		
+		&lt;u&gt;Décompte Cycle Show Word&lt;/u&gt;
+		&lt;p/&gt;
+				
+		Si elle est cochée, nous \'ll voir le nombre de fois que la question actuelle a été répondu correctement (sur le nombre de fois son supposé
+répétition). Cela peut être gênant et / ou de fournir des conseils, vous pouvez donc envisager de le désactiver.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Réinitialiser un décompte exact des&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Si cette case est cochée, le nombre de cycles mot sera modifié (basé sur la chute paramètre Tous Niveaux) après une réponse incorrecte.
+Si vous \'d préfèrent le nombre de cycle de mot pour ne pas être affectée par une mauvaise réponse, décochez cette. 
+		&lt;p/&gt;
+		
+		&lt;u&gt;Mode Flashcard au hasard&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Lorsque l\'on regarde flashcards, si cette option est cochée l\'ordre kanji sera aléatoire. Sinon, nous \'ll leur montrer dans un ordre séquentiel.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Test Kanji&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Spécifiez le kanji pour sélectionner lors d\'un test.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Flashcard Kanji&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Spécifiez le kanji pour sélectionner lors de l\'utilisation flashcards.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Modifier Kanji&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Modifier les kanji qui sont dans cette session.
+		&lt;p/&gt;
+		
+		&lt;u&gt;Ajuster les niveaux&lt;/u&gt;
+		&lt;p/&gt;
+		
+		Changer le délais d\'attente lors de l\'utilisation de niveaux de classement Leitner.
+		&lt;p/&gt;
+	</string>
+</resources>

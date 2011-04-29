@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"
+	android:orientation="vertical">
+
+	<RelativeLayout android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:id="@+id/top_control_bar">
+
+	</RelativeLayout>
+	
+	<LinearLayout android:id="@+id/bottom_control_bar"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		
+		android:orientation="vertical"
+    	android:gravity="center_horizontal"
+		>
+			
+		<Button 
+			android:id="@+id/button_show_grading_stats"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/button_show_grading_stats"
+			style="@style/BLButton"			
+			 />
+			 
+		<Button 
+			android:id="@+id/button_show_correct_kanji_answered"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/button_show_correct_kanji_answered"
+			style="@style/BLButton"			
+			 />
+			 
+		<Button 
+			android:id="@+id/button_show_incorrect_kanji_answered"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/button_show_incorrect_kanji_answered"
+			style="@style/BLButton"			
+			 />
+	</LinearLayout>	
+	
+	<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 		
+		android:layout_below="@id/top_control_bar" 
+		android:layout_above="@id/bottom_control_bar"
+    	>
+    
+	    <TableRow>
+	        <TextView	            
+	            android:text="@string/label_num_due_questions_not_asked"
+	            style="@style/BLText"
+	            android:padding="4.5dp" />
+	        <TextView
+	        	android:id="@+id/val_num_due_questions_not_asked"
+	            android:text="XXXX"
+	            style="@style/BLText"
+	            android:gravity="center"
+	            android:padding="4.5dp" />
+	    </TableRow>
+    
+    	<TableRow>
+	        <TextView	            
+	            android:text="@string/label_num_all_correct"
+	            style="@style/BLText"
+	            android:padding="4.5dp" />
+	        <TextView
+	        	android:id="@+id/val_nul_all_correct"
+	            android:text="XXXX"
+	            style="@style/BLText"
+	            android:gravity="center"
+	            android:padding="4.5dp" />
+	    </TableRow>
+	    
+	    <TableRow>
+	        <TextView	            
+	            android:text="@string/label_num_first_answer_correct"
+	            style="@style/BLText"
+	            android:padding="4.5dp" />
+	        <TextView
+	        	android:id="@+id/val_num_first_answer_correct"
+	            android:text="XXXX"
+	            style="@style/BLText"
+	            android:gravity="center"
+	            android:padding="4.5dp" />
+	    </TableRow>
+	    
+	    <TableRow>
+	        <TextView	            
+	            android:text="@string/label_num_incorrect_answer"
+	            style="@style/BLText"
+	            android:padding="4.5dp" />
+	        <TextView
+	        	android:id="@+id/val_num_incorrect_answer"
+	            android:text="XXXX"
+	            style="@style/BLText"
+	            android:gravity="center"
+	            android:padding="4.5dp" />
+	    </TableRow>
+    
+    </TableLayout>
+	
+</RelativeLayout>
